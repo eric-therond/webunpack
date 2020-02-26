@@ -1,0 +1,2 @@
+41;validator;<1.1.0;>=1.1.0;critical;https://npmjs.com/advisories/41
+414;lodash;<4.0.1;>=4.0.0;critical;https://npmjs.com/advisories/FAKE

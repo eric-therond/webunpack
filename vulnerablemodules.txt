@@ -1,0 +1,1334 @@
+1484;@commercial/subtext;<5.1.2;>=5.1.2;high;https://npmjs.com/advisories/1484
+1483;@commercial/hapi;<16.8.2 || >=17.0.0 <17.9.2 || >=18.0.0 <18.4.1 || >=19.0.0 <19.1.1;>=16.8.2 <17.0.0 || >=17.9.2 <18.0.0 || >=18.4.1 <19.0.0 || >=19.1.1;high;https://npmjs.com/advisories/1483
+1482;@hapi/hapi;<18.4.1 || >=19.0.0 <19.1.1;>=18.4.1 <19.0.0 || >=19.1.1;high;https://npmjs.com/advisories/1482
+1481;hapi;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/1481
+1480;@hapi/subtext;<6.1.3 || >=7.0.0 <7.0.3;>=6.1.3 <7.0.0 || >=7.0.3;high;https://npmjs.com/advisories/1480
+1479;subtext;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/1479
+1478;subtext;>=4.1.0;<0.0.0;high;https://npmjs.com/advisories/1478
+1477;@commercial/subtext;5.1.1;>=5.1.2;high;https://npmjs.com/advisories/1477
+1476;@hapi/subtext;>=4.1.0 <6.1.3 || >= 7.0.0 <7.0.3;>=6.1.3 <7.0.0 || >=7.0.3;high;https://npmjs.com/advisories/1476
+1475;@hapi/accept;>=3.2.0 <3.2.4 || >=4.0.0 <5.0.1;>=3.2.4 <4.0.0 || >=5.0.1;high;https://npmjs.com/advisories/1475
+1474;@hapi/ammo;<3.1.2 || >=4.0.0 <5.0.1;>=3.1.2 <4.0.0 || >=5.0.1;high;https://npmjs.com/advisories/1474
+1473;@commercial/ammo;<2.1.1;>=2.1.1;high;https://npmjs.com/advisories/1473
+1472;ammo;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/1472
+1471;marky-markdown;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/1471
+1470;marky-markdown;>=0.0.0;<0.0.0;low;https://npmjs.com/advisories/1470
+1469;qs;<6.0.4 || >=6.1.0 <6.1.2 || >=6.2.0 <6.2.3 || >=6.3.0 <6.3.2;>=6.0.4 <6.1.0 || >=6.1.2 <6.2.0 || >=6.2.3 <6.3.0 || >=6.3.2;high;https://npmjs.com/advisories/1469
+1468;@hapi/hoek;>=8.3.2 <8.5.1 || >=9.0.0 <9.0.3;>=8.5.1 <9.0.0 || >=9.0.3;low;https://npmjs.com/advisories/1468
+1467;cordova-plugin-inappbrowser;<3.1.0;>=3.1.0;moderate;https://npmjs.com/advisories/1467
+1464;cryptiles;<4.1.2;>=4.1.2;high;https://npmjs.com/advisories/1464
+1463;klona;<1.1.1;>=1.1.1;high;https://npmjs.com/advisories/1463
+1462;parsel;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1462
+1461;parsel;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1461
+1460;parsel;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/1460
+1459;@hapi/boom;<0.3.8;>=0.3.8;moderate;https://npmjs.com/advisories/1459
+1458;npm-git-publish;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1458
+1457;meta-git;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1457
+1456;node-red;<0.20.8;>=0.20.8;moderate;https://npmjs.com/advisories/1456
+1455;1337qq-js;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1455
+1453;angular;<1.5.0-beta.1;>=1.5.0-beta.1;high;https://npmjs.com/advisories/1453
+1452;fileview;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/1452
+1451;seeftl;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/1451
+1450;express-laravel-passport;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1450
+1449;atlasboard-atlassian-package;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/1449
+1448;mongodb-query-parser;<2.0.0;>=2.0.0;critical;https://npmjs.com/advisories/1448
+1444;type-graphql;<0.17.6;>=0.17.6;low;https://npmjs.com/advisories/1444
+1442;nextcloud-vue-collections;<0.4.2;>=0.4.2;high;https://npmjs.com/advisories/1442
+1439;hot-formula-parser;<3.0.1;>=3.0.1;critical;https://npmjs.com/advisories/1439
+1438;bin-links;<1.1.6;>=1.1.6;low;https://npmjs.com/advisories/1438
+1437;npm;<6.13.4;>=6.13.4;low;https://npmjs.com/advisories/1437
+1436;npm;<6.13.3;>=6.13.3;low;https://npmjs.com/advisories/1436
+1435;bin-links;<1.1.5;>=1.1.5;low;https://npmjs.com/advisories/1435
+1434;npm;<6.13.3;>=6.13.3;low;https://npmjs.com/advisories/1434
+1433;treekill;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/1433
+1432;tree-kill;<1.2.2;>=1.2.2;high;https://npmjs.com/advisories/1432
+1431;node-df;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/1431
+1429;serialize-to-js;<3.0.1;>=3.0.1;moderate;https://npmjs.com/advisories/1429
+1428;safer-eval;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1428
+1427;bin-links;<1.1.5;>=1.1.5;low;https://npmjs.com/advisories/1427
+1426;serialize-javascript;<2.1.1;>=2.1.1;moderate;https://npmjs.com/advisories/1426
+1425;vue-moment;<4.1.0;>=4.1.0;low;https://npmjs.com/advisories/1425
+1424;strapi;<3.0.0-beta.17.8;>=3.0.0-beta.17.8;high;https://npmjs.com/advisories/1424
+1422;slp-validate;<1.0.1;>=1.0.1;critical;https://npmjs.com/advisories/1422
+1421;react-dom;16.0.0 || >=16.1.0 <16.1.2 || 16.2.0 || >=16.3.0 <16.3.3 || >=16.4.0 <16.4.2;>=16.0.1 <16.1.0 || >=16.1.2 <16.2.0 || >=16.2.1 <16.3.0 || >=16.3.3 <16.4.0 || >=16.4.2;low;https://npmjs.com/advisories/1421
+1420;react;>=0.4.0 <0.4.2 || >=0.5.0 <0.5.2;>=0.4.2 <0.5.0 || >=0.5.2;moderate;https://npmjs.com/advisories/1420
+1419;iobroker.js-controller;<2.0.25;>=2.0.25;high;https://npmjs.com/advisories/1419
+1418;panellum;<2.5.6;>=2.5.6;moderate;https://npmjs.com/advisories/1418
+1417;lodahs;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1417
+1416;web3-eht;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1416
+1415;we3b;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1415
+1414;wbe3;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1414
+1413;wallet-address-validtaor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1413
+1412;wallet-address-vaildator;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1412
+1411;singale;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1411
+1410;signqle;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1410
+1409;siganle;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1409
+1408;scrytsy;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1408
+1407;scryptys;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1407
+1406;sb58;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1406
+1405;ripmed160;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1405
+1404;ripedm160;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1404
+1403;riped160;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1403
+1402;rceat;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1402
+1401;path-to-regxep;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1401
+1400;hw-trnasport-u2f;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1400
+1399;hdkye;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1399
+1398;hdeky;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1398
+1397;fs-extar;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1397
+1396;ecuvre;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1396
+1395;ecruve;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1395
+1394;dhkey;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1394
+1393;degbu;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1393
+1392;cxt;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1392
+1391;crytpo-js;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1391
+1390;crpyto-js;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1390
+1389;conistring;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1389
+1388;commanedr;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1388
+1387;commandre;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1387
+1386;colne;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1386
+1385;coinstrng;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1385
+1384;coinstrig;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1384
+1383;coinstirng;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1383
+1382;coinpayment;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1382
+1381;cionstring;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1381
+1380;bsae-x;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1380
+1379;bs85check;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1379
+1378;bs85;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1378
+1377;bs58chekc;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1377
+1376;bs58chek;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1376
+1375;bs58chcek;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1375
+1374;bpi66;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1374
+1373;bpi39;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1373
+1372;bp66;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1372
+1371;bitcroe-lib;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1371
+1370;bitconijs-lib;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1370
+1369;bitconid-rpc;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1369
+1368;bitconi-ops;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1368
+1367;bitcoisnj-lib;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1367
+1366;bitcoin-sweep;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1366
+1365;bitcoin-osp;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1365
+1364;bitcoimjs-lib;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1364
+1363;bitcoimd-rpc;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1363
+1362;bitcoijns-lib;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1362
+1361;bitcionjslib;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1361
+1360;bitcionjs;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1360
+1359;bitcion-ops;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1359
+1358;bip30;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1358
+1357;bictore-lib;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1357
+1356;bictoinjs-lib;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1356
+1355;bictoind-rpc;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1355
+1354;bictoin-ops;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1354
+1353;bconi;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1353
+1352;bcion;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1352
+1351;baes-x;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1351
+1350;babel-loqder;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1350
+1349;babel-loadre;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1349
+1348;babel-laoder;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1348
+1347;react;<0.14.0;>=0.14.0;high;https://npmjs.com/advisories/1347
+1346;iobroker.admin;<3.6.12;>=3.6.12;high;https://npmjs.com/advisories/1346
+1345;iobroker.web;<2.4.10;>=2.4.10;high;https://npmjs.com/advisories/1345
+1344;cxct;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1344
+1343;angular;<1.7.9;>=1.7.9;moderate;https://npmjs.com/advisories/1343
+1325;handlebars;<4.5.3;>=4.5.3;high;https://npmjs.com/advisories/1325
+1324;handlebars;<4.5.3;>=4.5.3;high;https://npmjs.com/advisories/1324
+1323;malicious-npm-package;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1323
+1316;handlebars;<4.5.2;>=4.5.2;high;https://npmjs.com/advisories/1316
+1315;sj-labc;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1315
+1314;superhappyfuntime;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1314
+1313;arsenic-tabasco-cyborg-peanut-butter;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1313
+1312;chartkick;>=3.1.0 <=3.1.3;>3.1.3;high;https://npmjs.com/advisories/1312
+1311;strapi;>=3.0.0-alpha.4.3 <=3.0.0-alpha.26.2 || >=3.0.0-next.0 <=3.0.0-next.31 || >=3.0.0-beta.0 <3.0.0-beta.17.5;>3.0.0-alpha.26.2 <3.0.0-beta.0 || >= 3.0.0-beta.17.5 < 3.0.0-next.0 || >3.0.0-next.31;high;https://npmjs.com/advisories/1311
+1310;sj-tw-abc;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1310
+1309;sj-tw-sec;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1309
+1308;sj-tw-test-security;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1308
+1307;owl-orchard-apple-sunshine;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1307
+1305;airtable;>=0.1.19 <0.7.2;>=0.7.2;high;https://npmjs.com/advisories/1305
+1303;statics-server;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/1303
+1302;showdown;<1.9.1;>=1.9.1;low;https://npmjs.com/advisories/1302
+1300;handlebars;>=4.0.0 <4.4.5;>=4.4.5;moderate;https://npmjs.com/advisories/1300
+1299;zs-sha3;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1299
+1298;ns-sha3;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1298
+1297;ks-sha3;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1297
+1296;jw-sha3;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1296
+1295;jsmsha3;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1295
+1294;js-wha3;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1294
+1293;js-sxa3;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1293
+1292;js-sla3;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1292
+1291;js-sja3;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1291
+1290;js-sia3;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1290
+1289;js-shq3;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1289
+1288;js-shi3;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1288
+1287;js-she3;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1287
+1286;js-shc3;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1286
+1285;js-shas;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1285
+1284;js-sha7;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1284
+1283;js-rha3;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1283
+1282;js-qha3;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1282
+1281;js-cha3;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1281
+1280;js-3ha3;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1280
+1279;jr-sha3;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1279
+1278;jq-sha3;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1278
+1277;jc-sha3;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1277
+1276;j3-sha3;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1276
+1275;hs-sha3;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1275
+1274;bs-sha3;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1274
+1273;ruffer-xor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1273
+1272;juffer-xor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1272
+1271;fuffer-xor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1271
+1270;cuffer-xor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1270
+1269;bwffer-xor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1269
+1268;buvfer-xor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1268
+1267;bunfer-xor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1267
+1266;bugfer-xor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1266
+1265;bufver-xor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1265
+1264;bufner-xor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1264
+1263;bufger-xor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1263
+1262;buffur-xor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1262
+1261;buffmr-xor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1261
+1260;buffgr-xor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1260
+1259;buffez-xor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1259
+1258;buffev-xor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1258
+1257;buffes-xor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1257
+1256;buffermxor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1256
+1255;buffer-zor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1255
+1254;buffer-yor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1254
+1253;buffer-xoz;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1253
+1252;buffer-xov;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1252
+1251;buffer-xos;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1251
+1250;buffer-xop;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1250
+1249;buffer-xob;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1249
+1248;buffer-xo2;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1248
+801;smart-extend;>=0;<0.0.0;moderate;https://npmjs.com/advisories/801
+800;typeorm;<0.1.15;>=0.1.15;high;https://npmjs.com/advisories/800
+799;http-live-simulator;<=1.0.5;>=1.0.6;high;https://npmjs.com/advisories/799
+797;tomato;>=0;<0;high;https://npmjs.com/advisories/797
+796;jquery;<3.4.0;>=3.4.0;moderate;https://npmjs.com/advisories/796
+795;serve;<=7.1.2;>7.1.2;high;https://npmjs.com/advisories/795
+794;editor.md;>=0;<0.0.0;high;https://npmjs.com/advisories/794
+793;highcharts;<6.1.0;>=6.1.0;low;https://npmjs.com/advisories/793
+792;tesseract.js;<1.0.19;>=1.0.19;moderate;https://npmjs.com/advisories/792
+791;googleapis;<39.1.0;>=39.1.0;high;https://npmjs.com/advisories/791
+790;serialize-to-js;<2.0.0;>=2.0.0;high;https://npmjs.com/advisories/790
+789;opencv;<6.1.0;>=6.1.0;low;https://npmjs.com/advisories/789
+788;js-yaml;<3.13.0;>=3.13.0;moderate;https://npmjs.com/advisories/788
+787;safer-eval;<=1.3.1;>=1.3.2;high;https://npmjs.com/advisories/787
+786;braces;<2.3.1;>=2.3.1;low;https://npmjs.com/advisories/786
+785;clean-css;<4.1.11;>=4.1.11;low;https://npmjs.com/advisories/785
+784;node-os-utils;<1.1.0;>=1.1.0;high;https://npmjs.com/advisories/784
+783;url-relative;*;<0.0.0;moderate;https://npmjs.com/advisories/783
+782;lodash;<4.17.11;>=4.17.11;high;https://npmjs.com/advisories/782
+781;node.extend;>=2.0.0 <2.0.1 || <1.1.7;>=1.1.7 <2.0.0 || >= 2.0.1;moderate;https://npmjs.com/advisories/781
+780;just-extend;<4.0.0;>=4.0.0;moderate;https://npmjs.com/advisories/780
+779;mpath;<0.5.1;>=0.5.1;moderate;https://npmjs.com/advisories/779
+778;defaults-deep;*;<0.0.0;moderate;https://npmjs.com/advisories/778
+777;decompress-zip;<0.2.2 || >=0.3.0 <0.3.2;>=0.2.2 <0.3.0 || >=0.3.2;high;https://npmjs.com/advisories/777
+776;bower;<1.8.8;>=1.8.8;high;https://npmjs.com/advisories/776
+774;stream-combine;2.0.2;<0.0.0;critical;https://npmjs.com/advisories/774
+773;pi_video_recording;>=0;<0.0.0;high;https://npmjs.com/advisories/773
+772;http-live-simulator;<=1.0.6;>=1.0.7;high;https://npmjs.com/advisories/772
+771;loopback;<=2.39.2 || >=3.0.0 <=3.21.0;>=2.40.0 <3.0.0 || >=3.22.0;high;https://npmjs.com/advisories/771
+770;bootstrap-vue;<2.0.0-rc.12;>=2.0.0-rc.12;high;https://npmjs.com/advisories/770
+769;jquery.terminal;<=1.20.0;>1.20.0;moderate;https://npmjs.com/advisories/769
+768;terriajs-server;<2.7.4;>=2.7.4;high;https://npmjs.com/advisories/768
+767;loopback-connector-mongodb;<=3.5.0;>=3.6.0;high;https://npmjs.com/advisories/767
+766;sandbox;*;<0.0.0;moderate;https://npmjs.com/advisories/766
+765;portionfatty12;*;<0.0.0;critical;https://npmjs.com/advisories/765
+764;rrgod;*;<0.0.0;critical;https://npmjs.com/advisories/764
+763;commander-js;*;<0.0.0;critical;https://npmjs.com/advisories/763
+762;generate-password;<1.4.1;>=1.4.1;moderate;https://npmjs.com/advisories/762
+760;semantic-ui-search;>=0;<0.0.0;high;https://npmjs.com/advisories/760
+759;office-converter;*;<0.0.0;high;https://npmjs.com/advisories/759
+758;static-eval;<=2.0.1;>=2.0.2;moderate;https://npmjs.com/advisories/758
+756;pomelo-monitor;*;<0.0.0;high;https://npmjs.com/advisories/756
+755;handlebars;<=4.0.13 || >=4.1.0 <4.1.2;>=4.0.14 <4.1.0 || >=4.1.2;critical;https://npmjs.com/advisories/755
+753;rails-session-decoder;*;<0.0.0;high;https://npmjs.com/advisories/753
+752;sailsjs-cacheman;*;<0.0.0;low;https://npmjs.com/advisories/752
+751;mermaid;<8.2.3;>=8.2.3;high;https://npmjs.com/advisories/751
+750;jingo;<1.9.2;>=1.9.2;high;https://npmjs.com/advisories/750
+749;markdown-it-toc-and-anchor;<4.2.0;>=4.2.0;moderate;https://npmjs.com/advisories/749
+748;md-data-table;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/748
+747;buefy;<0.7.2;>=0.7.2;high;https://npmjs.com/advisories/747
+746;cordova-plugin-ionic-webview;<2.2.0;>=2.2.0;high;https://npmjs.com/advisories/746
+745;underscore.string;<=3.3.4;>=3.3.5;moderate;https://npmjs.com/advisories/745
+744;simplehttpserver;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/744
+743;knightjs;*;<0.0.0;high;https://npmjs.com/advisories/743
+741;tianma-static;*;<0.0.0;critical;https://npmjs.com/advisories/741
+740;takeapeek;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/740
+739;cached-path-relative;<=1.0.1;>=1.0.2;high;https://npmjs.com/advisories/739
+738;text-qrcode;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/738
+737;flatmap-stream;0.1.1;<0.0.0;critical;https://npmjs.com/advisories/737
+736;morgan;<=1.9.0;>=1.9.1;moderate;https://npmjs.com/advisories/736
+735;ircdkit;*;<0.0.0;moderate;https://npmjs.com/advisories/735
+734;samsung-remote;<1.3.5;>=1.3.5;critical;https://npmjs.com/advisories/734
+733;exceljs;<1.6.0;>=1.6.0;moderate;https://npmjs.com/advisories/733
+732;electron;>=1.7.0 <1.7.16 || >=1.8.0 <1.8.8 || >=2.0.0 <2.0.8 || >=3.0.0-beta.1 <3.0.0-beta.7;>=3.0.0-beta.7 || >=2.0.8 <3.0.0-beta.1 || >=1.8.8 <2.0.0 || >=1.7.16 <1.8.0;critical;https://npmjs.com/advisories/732
+731;m-server;<=1.4.1;>=1.4.2;moderate;https://npmjs.com/advisories/731
+730;express-cart;<=1.1.5;>=1.1.6;critical;https://npmjs.com/advisories/730
+729;m-server;<=1.4.1;>=1.4.2;moderate;https://npmjs.com/advisories/729
+728;ps;<1.0.0;>=1.0.0;moderate;https://npmjs.com/advisories/728
+727;ascii-art;<=1.4.2;>=1.4.4;low;https://npmjs.com/advisories/727
+726;browserify-hmr;<0.4.0;>=0.4.0;high;https://npmjs.com/advisories/726
+725;webpack-dev-server;<2.11.4 || >=3.0.0 <=3.1.10;>=2.11.4 <3.0.0 || >=3.1.11;high;https://npmjs.com/advisories/725
+724;express-cart;<=1.1.7;>=1.1.8;high;https://npmjs.com/advisories/724
+723;pem;<=1.13.1;>=1.13.2;critical;https://npmjs.com/advisories/723
+722;merge;<=1.2.0;>=1.2.1;low;https://npmjs.com/advisories/722
+721;parcel-bundler;<1.10.0;>=1.10.0;high;https://npmjs.com/advisories/721
+720;cryptiles;>=3.1.0 <3.1.3 || >=4.0.0 <4.1.2;>=3.1.3 <4.0.0 || >=4.1.2;high;https://npmjs.com/advisories/720
+719;libnmap;<=0.4.15;>=0.4.16;moderate;https://npmjs.com/advisories/719
+718;apex-publish-static-files;<=2.0.0;>=2.0.1;critical;https://npmjs.com/advisories/718
+717;merge-options;<=1.0.0;>=1.0.1;low;https://npmjs.com/advisories/717
+716;merge-objects;>=0.0.0;<0.0.0;low;https://npmjs.com/advisories/716
+715;merge-recursive;>=0.0.0;<0.0.0;low;https://npmjs.com/advisories/715
+696;loopback-connector-mongodb;<=3.5.0;>=3.6.0;high;https://npmjs.com/advisories/696
+695;react-dev-utils;<1.0.4  || >=2.0.0 <2.0.2 || >=3.0.0 <3.1.2 || >=4.0.0 <4.2.2 || >=5.0.0 <5.0.2 || >= 6.0.0 <6.0.0-next.a671462c;>=1.0.4 < 2.0.0 || >=2.0.2 < 3.0.0 || >=3.1.2 < 4.0.0 || >=4.2.2 < 5.0.0 || >=5.0.2 < 6.0.0-next.a671462c || >=6.0.0-next.a671462c;high;https://npmjs.com/advisories/695
+694;egg-scripts;<2.8.1;>=2.8.1;low;https://npmjs.com/advisories/694
+693;ipns;0.1.1|| 0.1.2;>= 0.1.3 ;high;https://npmjs.com/advisories/693
+690;cryo;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/690
+689;flintcms;<=1.1.9;>=1.1.10;critical;https://npmjs.com/advisories/689
+688;foever;>=0;<0.0.0;critical;https://npmjs.com/advisories/688
+687;soket.js;>=0;<0.0.0;critical;https://npmjs.com/advisories/687
+686;soket.io;>=0;<0.0.0;critical;https://npmjs.com/advisories/686
+685;regenrator;>=0;<0.0.0;critical;https://npmjs.com/advisories/685
+684;regenraotr;>=0;<0.0.0;critical;https://npmjs.com/advisories/684
+683;axois;>=0;<0.0.0;critical;https://npmjs.com/advisories/683
+682;aedes;<=0.35.0;>=0.35.1;moderate;https://npmjs.com/advisories/682
+681;adm-zip;<0.4.9;>=0.4.9;high;https://npmjs.com/advisories/681
+680;unzipper;<0.8.13;>=0.8.13;high;https://npmjs.com/advisories/680
+679;njwt;<1.0.0;>=1.0.0;low;https://npmjs.com/advisories/679
+678;url-parse;<1.4.3;>=1.4.3;high;https://npmjs.com/advisories/678
+677;boogeyman;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/677
+676;express-cart;<=1.1.5;>=1.1.7;high;https://npmjs.com/advisories/676
+675;eslint-config-airbnb-standard;2.0.0;< 2.0.0 || > 2.0.0;critical;https://npmjs.com/advisories/675
+674;eslint-config-eslint;5.0.2;< 5.0.2 || > 5.0.2;critical;https://npmjs.com/advisories/674
+673;eslint-scope;3.7.2;<3.7.2 || >3.7.2;critical;https://npmjs.com/advisories/673
+672;serve;<=6.5.3;>=7.0.0;high;https://npmjs.com/advisories/672
+671;sexstatic;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/671
+670;pdf-image;<2.0.0;>=2.0.0;moderate;https://npmjs.com/advisories/670
+669;hekto;<=0.2.3;>=0.2.4;low;https://npmjs.com/advisories/669
+668;react-marked-markdown;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/668
+667;buttle;>=0;<0.0.0;critical;https://npmjs.com/advisories/667
+666;query-mysql;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/666
+665;html-pages;<=2.0.9;>=2.1.0;high;https://npmjs.com/advisories/665
+664;stringstream;<=0.0.5;>=0.0.6;moderate;https://npmjs.com/advisories/664
+663;open;<=0.0.5;>0.0.5;critical;https://npmjs.com/advisories/663
+662;sql;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/662
+661;fs-path;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/661
+660;base64-url;<2.0.0;>=2.0.0;high;https://npmjs.com/advisories/660
+659;command-exists;<=1.2.3;>=1.2.4;critical;https://npmjs.com/advisories/659
+658;base64url;<3.0.0;>=3.0.0;moderate;https://npmjs.com/advisories/658
+657;byte;<=1.4.0;>=1.4.1;moderate;https://npmjs.com/advisories/657
+656;angular-http-server;<=1.4.3;>=1.4.4;high;https://npmjs.com/advisories/656
+655;localhost-now;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/655
+654;macaddress;<= 0.2.8;>= 0.2.9;critical;https://npmjs.com/advisories/654
+653;npmconf;<=2.1.2;>=2.1.3;moderate;https://npmjs.com/advisories/653
+652;superstatic;<=5.0.1;>=5.0.2;high;https://npmjs.com/advisories/652
+651;ladder-text-js;>=0;<0.0.0;critical;https://npmjs.com/advisories/651
+650;nothing-js;>=0;<0.0.0;critical;https://npmjs.com/advisories/650
+649;getcookies;>=0;<0.0.0;critical;https://npmjs.com/advisories/649
+648;react-svg;<=2.2.17;>=2.2.18;high;https://npmjs.com/advisories/648
+647;rgb2hex;<0.1.6;>=0.1.6;moderate;https://npmjs.com/advisories/647
+646;atob;<=2.0.3;>=2.1.0;moderate;https://npmjs.com/advisories/646
+645;foreman;<3.0.1;>=3.0.1;high;https://npmjs.com/advisories/645
+644;concat-with-sourcemaps;<=1.0.5;>=1.0.6;moderate;https://npmjs.com/advisories/644
+643;pdfinfojs;<=0.4.0;>=0.4.1;high;https://npmjs.com/advisories/643
+642;cloudcmd;<=9.1.5;>=9.1.6;high;https://npmjs.com/advisories/642
+641;mcstatic;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/641
+640;dictum.js;1.0.5;< 1.0.5 || > 1.0.5;critical;https://npmjs.com/advisories/640
+639;nginxbeautifier;1.0.14;< 1.0.14 || > 1.0.14;critical;https://npmjs.com/advisories/639
+638;xoc;1.0.7;< 1.0.7 || > 1.0.7;critical;https://npmjs.com/advisories/638
+637;simple-alipay;1.0.1;< 1.0.1 || > 1.0.1;critical;https://npmjs.com/advisories/637
+636;s3asy;0.4.8 ;< 0.4.8 || > 0.4.8 ;critical;https://npmjs.com/advisories/636
+635;react-server-native;0.0.7;< 0.0.7 || > 0.0.7;critical;https://npmjs.com/advisories/635
+634;react-dates-sc;0.3.0;< 0.3.0 || > 0.3.0;critical;https://npmjs.com/advisories/634
+633;rc-calendar-jhorst;8.4.3;< 8.4.3 || > 8.4.3;critical;https://npmjs.com/advisories/633
+632;oauth-validator;1.0.2;< 1.0.2 || > 1.0.2;critical;https://npmjs.com/advisories/632
+631;modlibrary;0.1.1;< 0.1.1 || > 0.1.1;critical;https://npmjs.com/advisories/631
+630;json-serializer ;2.0.10;< 2.0.10 || > 2.0.10;critical;https://npmjs.com/advisories/630
+629;jasmin;0.0.3;< 0.0.3 || > 0.0.3;critical;https://npmjs.com/advisories/629
+628;impala;1.1.7;< 1.1.7 || > 1.1.7;critical;https://npmjs.com/advisories/628
+627;freshdom;0.0.6;< 0.0.6 || > 0.0.6;critical;https://npmjs.com/advisories/627
+626;dynamo-schema;0.0.3;< 0.0.3 || > 0.0.3;critical;https://npmjs.com/advisories/626
+625;dossier;0.0.4;< 0.0.4 || > 0.0.4;critical;https://npmjs.com/advisories/625
+624;css_transform_support;1.0.2;< 1.0.2 || > 1.0.2;critical;https://npmjs.com/advisories/624
+623;css_transform_step;1.0.6;< 1.0.6 || > 1.0.6;critical;https://npmjs.com/advisories/623
+622;cordova-plugin-china-picker;1.0.910;< 1.0.910 || > 1.0.910;critical;https://npmjs.com/advisories/622
+621;coffee-project;1.7.5;< 1.7.5 || > 1.7.5;critical;https://npmjs.com/advisories/621
+620;codify;0.3.1;< 0.3.1 || > 0.3.1;critical;https://npmjs.com/advisories/620
+619;blingjs;0.0.4;< 0.0.4 || > 0.0.4;critical;https://npmjs.com/advisories/619
+618;awesome_react_utility;1.0.2;< 1.0.2 || > 1.0.2;critical;https://npmjs.com/advisories/618
+617;another-date-range-picker;4.1.48 ;< 4.1.48 || > 4.1.48 ;critical;https://npmjs.com/advisories/617
+616;another-date-picker;2.0.43 ;< 2.0.43  || > 2.0.43 ;critical;https://npmjs.com/advisories/616
+615;angular-material-sidenav-rnd;0.1.1;< 0.1.1 || > 0.1.1;critical;https://npmjs.com/advisories/615
+614;angular-bmap;0.0.9;< 0.0.9 || > 0.0.9;critical;https://npmjs.com/advisories/614
+613;@impala/bmap;1.0.3;< 1.0.3 || > 1.0.3;critical;https://npmjs.com/advisories/613
+612;deep-extend;<=0.5.0;>=0.5.1;low;https://npmjs.com/advisories/612
+611;deap;<1.0.1;>=1.0.1;low;https://npmjs.com/advisories/611
+610;glance;>=0.0.0;<0.0.0;low;https://npmjs.com/advisories/610
+609;public;>=0.0.0;<0.0.0;low;https://npmjs.com/advisories/609
+608;bracket-template;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/608
+607;http-proxy-agent;<=2.0.0;>=2.1.0;high;https://npmjs.com/advisories/607
+606;sshpk;<1.13.2 || >=1.14.0 <1.14.1;>=1.13.2 < 1.14.0 || >=1.14.1;high;https://npmjs.com/advisories/606
+605;protobufjs;<5.0.3 || >= 6.0.0 <=6.8.5;>=5.0.3 < 6.0.0 || >=6.8.6;moderate;https://npmjs.com/advisories/605
+604;whereis;<=0.4.0;>=0.4.1;high;https://npmjs.com/advisories/604
+603;metascraper;<5.3.0;>=5.3.0;high;https://npmjs.com/advisories/603
+602;mysql;>=2.0.0-alpha8 <=2.0.0-rc2 || >=2.0.0 <=2.13.0;>=2.14.0;moderate;https://npmjs.com/advisories/602
+601;floody;<0.1.1;>=0.1.1;moderate;https://npmjs.com/advisories/601
+600;openwhisk;<3.3.1;>=3.3.1;moderate;https://npmjs.com/advisories/600
+599;mongoose;>=3.5.5 <=3.8.38 || >=4.0.0 <=4.3.5;>=4.3.6 || >=3.8.39 <4.0.0;moderate;https://npmjs.com/advisories/599
+598;tunnel-agent;<0.6.0;>=0.6.0;moderate;https://npmjs.com/advisories/598
+597;concat-stream;>=1.3.0 <1.3.2 || >=1.4.0 <1.4.11 || >=1.5.0 <1.5.2;>=1.5.2 || >=1.4.11 <1.5.0 || >=1.3.2 <1.4.0;moderate;https://npmjs.com/advisories/597
+596;bl;<=0.9.4 || 1.0.0;>=0.9.5 <1.0.0 || >=1.0.1;moderate;https://npmjs.com/advisories/596
+595;simple-server;<1.1.0;>=1.1.0;high;https://npmjs.com/advisories/595
+594;serve;<6.5.2;>=6.5.2;high;https://npmjs.com/advisories/594
+593;https-proxy-agent;<=2.1.1;>=2.2.0;high;https://npmjs.com/advisories/593
+592;general-file-server;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/592
+591;stattic;<0.3.0;>=0.3.0;high;https://npmjs.com/advisories/591
+590;glance;<3.0.4;>=3.0.4;high;https://npmjs.com/advisories/590
+589;angular-http-server;<1.4.3;>=1.4.3;high;https://npmjs.com/advisories/589
+588;node-srv;<2.1.1;>=2.1.1;high;https://npmjs.com/advisories/588
+587;mrk.js;<2.0.1;>=2.0.1;high;https://npmjs.com/advisories/587
+586;hekto;<0.2.3;>=0.2.3;high;https://npmjs.com/advisories/586
+585;simplehttpserver;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/585
+584;anywhere;<1.5.0;>=1.5.0;high;https://npmjs.com/advisories/584
+583;626;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/583
+582;localhost-now;<1.0.2;>=1.0.2;high;https://npmjs.com/advisories/582
+581;defaults-deep;<0.2.4;>=0.2.4;low;https://npmjs.com/advisories/581
+580;merge-deep;<3.0.1;>=3.0.1;low;https://npmjs.com/advisories/580
+579;assign-deep;<0.4.7;>=0.4.7;low;https://npmjs.com/advisories/579
+578;mixin-deep;<1.3.1;>=1.3.1;low;https://npmjs.com/advisories/578
+577;lodash;<4.17.5;>=4.17.5;low;https://npmjs.com/advisories/577
+576;html-janitor;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/576
+1247;buffer-xnr;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1247
+1246;buffer-xmr;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1246
+1245;buffer-xkr;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1245
+1244;buffer-xgr;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1244
+1243;buffer-por;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1243
+1242;buffer-hor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1242
+1241;buffer-8or;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1241
+1240;buffep-xor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1240
+1239;buffeb-xor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1239
+1238;buffe2-xor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1238
+1237;buffdr-xor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1237
+1236;buffar-xor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1236
+1235;bufder-xor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1235
+1234;bufber-xor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1234
+1233;budfer-xor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1233
+1232;bubfer-xor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1232
+1231;btffer-xor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1231
+1230;bqffer-xor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1230
+1229;beffer-xor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1229
+1228;b5ffer-xor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1228
+1223;dompurify;<2.0.7;>=2.0.7;critical;https://npmjs.com/advisories/1223
+1222;saml2-js;<2.0.5;>=2.0.5;critical;https://npmjs.com/advisories/1222
+1221;safer-eval;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1221
+1220;simple-crypto-js;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/1220
+1218;realms-shim;<1.2.1;>=1.2.1;critical;https://npmjs.com/advisories/1218
+1216;express-fileupload;<1.1.6-alpha.6 || <=1.1.3-alpha.2 || <=1.1.2-alpha.1 || <=1.1.1-alpha.3 || <=1.0.0-alpha.1;>=1.1.6-alpha.6;low;https://npmjs.com/advisories/1216
+1214;node-git-server;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/1214
+1211;hexo-admin;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/1211
+1205;dompurify;<2.0.3;>=2.0.3;critical;https://npmjs.com/advisories/1205
+1204;@novnc/novnc;<0.6.2;>=0.6.2;moderate;https://npmjs.com/advisories/1204
+1203;mongodb;<3.1.13;>=3.1.13;high;https://npmjs.com/advisories/1203
+1202;uglyfi.js;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1202
+1201;8.9.4;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1201
+1200;ember_cli_babe;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1200
+1199;harmlesspackage;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1199
+1198;yeoman-genrator;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1198
+1197;require-port;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1197
+1196;pizza-pasta;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1196
+1195;log-symboles;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1195
+1194;json-serializer;2.0.10;<0.0.0;critical;https://npmjs.com/advisories/1194
+1193;comander;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1193
+1192;bmap;1.0.3;<0.0.0;critical;https://npmjs.com/advisories/1192
+1191;realms-shim;<1.2.0;>=1.2.0;critical;https://npmjs.com/advisories/1191
+1190;realms-shim;<1.2.0;>=1.2.0;critical;https://npmjs.com/advisories/1190
+1189;http-live-simulator;<1.0.8;>=1.0.8;moderate;https://npmjs.com/advisories/1189
+1188;generator-jhipster-kotlin;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1188
+1187;generator-jhipster;<6.3.0;>=6.3.0;critical;https://npmjs.com/advisories/1187
+1185;ibm_db;<2.6.0;>=2.6.0;high;https://npmjs.com/advisories/1185
+1184;https-proxy-agent;<2.2.3;>=2.2.3;high;https://npmjs.com/advisories/1184
+1183;apostrophe;<2.97.1;>=2.97.1;low;https://npmjs.com/advisories/1183
+1182;ses;<0.6.3;>=0.6.3;critical;https://npmjs.com/advisories/1182
+1181;realms-shim;<1.2.0;>=1.2.0;critical;https://npmjs.com/advisories/1181
+1180;realms-shim;<1.2.0;>=1.2.0;critical;https://npmjs.com/advisories/1180
+1177;discord.js-user;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1177
+1176;helmet-csp;>=1.2.2 <2.9.1;>=2.9.1;moderate;https://npmjs.com/advisories/1176
+1174;gitlabhook;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1174
+1171;csv-parse;<4.4.6;>=4.4.6;high;https://npmjs.com/advisories/1171
+1170;http_server;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/1170
+1169;mavon-editor;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/1169
+1168;subtext;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/1168
+1166;@commercial/subtext;<5.1.1;>=5.1.1;high;https://npmjs.com/advisories/1166
+1165;@hapi/subtext;<6.1.2;>=6.1.2;high;https://npmjs.com/advisories/1165
+1164;handlebars;<4.3.0;>=4.3.0;high;https://npmjs.com/advisories/1164
+1162;evil-package;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1162
+1161;openpgp;<4.2.0;>=4.2.0;moderate;https://npmjs.com/advisories/1161
+1160;openpgp;<4.2.0;>=4.2.0;high;https://npmjs.com/advisories/1160
+1159;openpgp;<4.3.0;>=4.3.0;high;https://npmjs.com/advisories/1159
+1158;webtorrent;<0.107.6 ;>=0.107.6 ;low;https://npmjs.com/advisories/1158
+1157;vant;<2.1.8;>=2.1.8;high;https://npmjs.com/advisories/1157
+1156;larvitbase-www;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/1156
+1155;seneca;<3.9.0;>=3.9.0;low;https://npmjs.com/advisories/1155
+1154;@ckeditor/ckeditor5-link;<10.0.1;>=10.0.1;high;https://npmjs.com/advisories/1154
+1153;connect-pg-simple;<6.0.1;>=6.0.1;low;https://npmjs.com/advisories/1153
+1151;status-board;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/1151
+1150;status-board;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/1150
+1149;cyberchef;<8.31.3;>=8.31.3;high;https://npmjs.com/advisories/1149
+1147;simple-markdown;<0.5.2;>=0.5.2;low;https://npmjs.com/advisories/1147
+1146;sequelize;<4.44.3 || >=5.0.0 <5.15.1;>=4.44.3 <5.0.0 || >=5.15.1;high;https://npmjs.com/advisories/1146
+1145;selectize-plugin-a11y;<1.1.0;>=1.1.0;high;https://npmjs.com/advisories/1145
+1144;public;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/1144
+1143;statichttpserver;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1143
+1142;sequelize;<5.0.0;>=5.0.0;moderate;https://npmjs.com/advisories/1142
+1141;sparkies;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1141
+1140;serilize;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1140
+1139;serializes;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1139
+1138;node-spdy;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1138
+1137;node-ftp;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1137
+1136;mysql-koa;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1136
+1135;mogoose;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1135
+1134;mogodb-core;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1134
+1133;mogodb;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1133
+1132;mogobd;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1132
+1131;koa-body-parse;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1131
+1130;k0a_multer;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1130
+1129;js-regular;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1129
+1128;js-base64-int;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1128
+1127;import-mysql;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1127
+1126;file-logging;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1126
+1125;body-parse-xml;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1125
+1124;axioss;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1124
+1123;axios-http;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1123
+1122;marsdb;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1122
+1121;graphql-shield;<6.0.6;>=6.0.6;low;https://npmjs.com/advisories/1121
+1120;larvitbase-api;<0.5.4;>=0.5.4;moderate;https://npmjs.com/advisories/1120
+1119;bb-builder;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1119
+1118;eslint-utils;>=1.2.0 <1.4.1;>=1.4.1;critical;https://npmjs.com/advisories/1118
+1116;@risingstack/protect;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/1116
+1114;parse-server;<3.6.0;>=3.6.0;low;https://npmjs.com/advisories/1114
+1113;parse-server;<3.4.1;>=3.4.1;moderate;https://npmjs.com/advisories/1113
+1112;msrcrypto;<1.4.1;>=1.4.1;low;https://npmjs.com/advisories/1112
+1111;min-http-server;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/1111
+1110;http-file-server;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/1110
+1109;device-mqtt;1.0.11;<0.0.0;critical;https://npmjs.com/advisories/1109
+1108;slush-fullstack-framework;0.9.2;<0.0.0;critical;https://npmjs.com/advisories/1108
+1107;pensi-scheduler;1.1.3;<0.0.0;critical;https://npmjs.com/advisories/1107
+1106;pyramid-proportion;1.0.5;<0.0.0;critical;https://npmjs.com/advisories/1106
+1105;ngx-context-menu;0.0.26;<0.0.0;critical;https://npmjs.com/advisories/1105
+1104;@fangrong/xoc;1.0.6;<0.0.0;critical;https://npmjs.com/advisories/1104
+1103;iie-viz;1.0.4;<0.0.0;critical;https://npmjs.com/advisories/1103
+1102;jquery-airload;0.2.5;<0.0.0;critical;https://npmjs.com/advisories/1102
+1101;zemen;0.0.5;<0.0.0;critical;https://npmjs.com/advisories/1101
+1100;uploader-plugin;1.0.2;<0.0.0;critical;https://npmjs.com/advisories/1100
+1099;sailclothjs;1.2.6;<0.0.0;critical;https://npmjs.com/advisories/1099
+1098;cal_rd;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1098
+1097;grpc-ts-health-check;<2.0.0;>=2.0.0;low;https://npmjs.com/advisories/1097
+1095;html-pdf;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1095
+1094;mithril;<1.1.7 || >=2.0.0 <2.0.2;>=1.1.7 <2.0.0 || >=2.0.2;high;https://npmjs.com/advisories/1094
+1093;notevil;<1.3.2;>=1.3.2;high;https://npmjs.com/advisories/1093
+1092;f-serv;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1092
+1089;anarchy;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1089
+1088;console-feed;<2.8.10;>=2.8.10;high;https://npmjs.com/advisories/1088
+1087;otpauth;<3.2.8;>=3.2.8;high;https://npmjs.com/advisories/1087
+1086;fast-requests;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1086
+1085;cage-js;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1085
+1084;mem;<4.0.0;>=4.0.0;low;https://npmjs.com/advisories/1084
+1083;rate-map;1.0.3;>1.0.3;critical;https://npmjs.com/advisories/1083
+1082;load-from-cwd-or-npm;3.0.2;>3.0.2;critical;https://npmjs.com/advisories/1082
+1081;dmn-js-properties-panel;<0.3.0;>=0.3.0;high;https://npmjs.com/advisories/1081
+1080;cmmn-js-properties-panel;<0.8.0;>=0.8.0;high;https://npmjs.com/advisories/1080
+1079;bpmn-js-properties-panel;<0.31.0;>=0.31.0;high;https://npmjs.com/advisories/1079
+1077;http-file-server;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/1077
+1076;marked;>=0.4.0 <0.7.0;>=0.7.0;low;https://npmjs.com/advisories/1076
+1075;domokeeper;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/1075
+1074;nodes.js;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1074
+1073;deasyncp;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1073
+1072;sdfjghlkfjdshlkjdhsfg;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1072
+1071;lodash.mergewith;<4.6.2;>=4.6.2;high;https://npmjs.com/advisories/1071
+1070;lodash.defaultsdeep;<4.6.1;>=4.6.1;high;https://npmjs.com/advisories/1070
+1069;lodash.mergewith;<4.6.1;>=4.6.1;high;https://npmjs.com/advisories/1069
+1068;lodash.defaultsdeep;<4.6.1;>=4.6.1;high;https://npmjs.com/advisories/1068
+1067;lodash.merge;<4.6.1;>=4.6.1;high;https://npmjs.com/advisories/1067
+1066;lodash.merge;<4.6.2;>=4.6.2;high;https://npmjs.com/advisories/1066
+1065;lodash;<4.17.12;>=4.17.12;high;https://npmjs.com/advisories/1065
+1064;tiar;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1064
+1063;secure_identity_login_module;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1063
+1062;river-mock;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1062
+1061;retcodelog;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1061
+1060;qingting;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1060
+1059;node-buc;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1059
+1058;next-util;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1058
+1057;midway-xtpl;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1057
+1056;midway-dataproxy;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1056
+1055;luna-mock;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1055
+1054;hsf-clients;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1054
+1053;hpmm;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1053
+1052;diamond-clien;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1052
+1051;cicada-render;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1051
+1050;appx-compiler;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1050
+1049;antd-cloud;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1049
+1048;alipayjsapi;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1048
+1047;alico;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1047
+1046;ali-contributors;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1046
+1045;ali-contributor;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1045
+1044;only-test-not-install;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1044
+1043;my-very-own-package;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1043
+1042;maybemaliciouspackage;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1042
+1041;leetlog;>=0.1.2;<0.0.0;critical;https://npmjs.com/advisories/1041
+1040;malicious-do-not-install;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/1040
+1039;quill;<1.3.7;>=1.3.7;moderate;https://npmjs.com/advisories/1039
+1038;takeapeek;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/1038
+1037;restify-swagger-jsdoc;<3.2.1;>=3.2.1;high;https://npmjs.com/advisories/1037
+1036;jquery.json-viewer;<1.3.0;>=1.3.0;high;https://npmjs.com/advisories/1036
+1035;zencashjs;<1.2.0;>=1.2.0;critical;https://npmjs.com/advisories/1035
+1030;deeply;<3.1.0;>=3.1.0;high;https://npmjs.com/advisories/1030
+1029;apostrophe;<2.92.0;>=2.92.0;moderate;https://npmjs.com/advisories/1029
+1028; graylog-web-interface;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/1028
+1026;total.js;<2.1.1 || >=2.2.0 <2.2.1 || >=2.3.0 <2.3.1 || >=2.4.0 <2.4.1 || >=2.5.0 <2.5.1 || >=2.6.0 <2.6.3 || >=2.7.0 <2.7.1 || >=2.8.0 <2.8.1 || >=2.9.0 <2.9.5 || >=3.0.0 <3.0.1 || >=3.1.0 <3.1.1 || >=3.2.0 <3.2.4;>=2.1.1 <2.2.0 || >=2.2.1 <2.3.0 || >=2.3.1 <2.4.0 || >=2.4.1 <2.5.0 || >=2.5.1 <2.6.0 || >=2.6.3 <2.7.0 || >=2.7.1 <2.8.0 || >=2.8.1 <2.9.0 || >=2.9.5 <3.0.0 || >=3.0.1 <3.1.0 || >=3.1.1 <3.2.0 || >=3.2.4;high;https://npmjs.com/advisories/1026
+1025;zero;<1.0.6;>=1.0.6;high;https://npmjs.com/advisories/1025
+1024;eco;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/1024
+1023;@ionic/core;<4.0.3 || >=4.1.0 <4.1.3 || >=4.2.0 <4.2.1 || >=4.3.0 <4.3.1;>=4.0.3 < 4.1.0 || >=4.1.3 <4.2.0 || >=4.2.1 <4.3.0 || >=4.3.1;high;https://npmjs.com/advisories/1023
+1022;rpc-websocket;>=0.7.7;<0.0.0;critical;https://npmjs.com/advisories/1022
+1021;safer-eval;<1.3.4;>=1.3.4;high;https://npmjs.com/advisories/1021
+1020;local-devices;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/1020
+1019;serve-here.js;<1.2.0;>=1.2.0;high;https://npmjs.com/advisories/1019
+1018;sequelize;<3.35.1 || >=4.0.0 <4.44.3 || >=5.0.0 <5.8.11;>=3.35.1 <4.0.0 || >=4.44.3 <5.0.0 || >=5.8.11;high;https://npmjs.com/advisories/1018
+1017;sequelize;<3.35.1;>=3.35.1;high;https://npmjs.com/advisories/1017
+1016;@berslucas/liljs;<1.0.2;>=1.0.2;moderate;https://npmjs.com/advisories/1016
+1015;require-node;<1.3.4 || >2.0.0 <2.0.4;>=1.3.4 <2.0.0 || >=2.0.4;critical;https://npmjs.com/advisories/1015
+1014;assign-deep;<1.0.1;>=1.0.1;high;https://npmjs.com/advisories/1014
+1013;mixin-deep;<1.3.2 || >=2.0.0 <2.0.1;>=1.3.2 <2.0.0 || >=2.0.1;high;https://npmjs.com/advisories/1013
+1012;set-value;<2.0.1 || >=3.0.0 <3.0.1;>=2.0.1 <3.0.0 || >=3.0.1;high;https://npmjs.com/advisories/1012
+1011;smartsearchwp;>=0;<0;critical;https://npmjs.com/advisories/1011
+1010;serve;<7.0.1;>=7.0.1;high;https://npmjs.com/advisories/1010
+1009;buttle;>=0;<0;high;https://npmjs.com/advisories/1009
+1008;file-static-server;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/1008
+1007;put;>=0;<0.0.0;low;https://npmjs.com/advisories/1007
+1005;localhost-now;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/1005
+1004;pullit;<1.4.0;>=1.4.0;high;https://npmjs.com/advisories/1004
+1003;crud-file-server;<0.9.0;>=0.9.0;high;https://npmjs.com/advisories/1003
+1002;ponse;<2.0.2;>=2.0.2;high;https://npmjs.com/advisories/1002
+1001;html-pages;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/1001
+1000;public;<0.1.4;>=0.1.4;high;https://npmjs.com/advisories/1000
+999;bruteser;<0.1.0;>=0.1.0;high;https://npmjs.com/advisories/999
+998;entitlements;<1.3.0;>=1.3.0;high;https://npmjs.com/advisories/998
+996;extend;<2.0.2 || >=3.0.0 <3.0.2;>=2.0.2 <3.0.0 || >=3.0.2;moderate;https://npmjs.com/advisories/996
+995;mergify;>=0;<0.0.0;moderate;https://npmjs.com/advisories/995
+994;adm-zip;<0.4.9;>=0.4.9;high;https://npmjs.com/advisories/994
+993;node-red;<0.18.6;>=0.18.6;high;https://npmjs.com/advisories/993
+992;serve;<10.0.2;>=10.0.2;moderate;https://npmjs.com/advisories/992
+991;markdown-pdf;<9.0.0;>=9.0.0;high;https://npmjs.com/advisories/991
+990;buttle;>=0;<0.0.0;high;https://npmjs.com/advisories/990
+989;untitled-model;>=0;<0;high;https://npmjs.com/advisories/989
+988;swagger-ui;<2.2.1;>=2.2.1;moderate;https://npmjs.com/advisories/988
+987;swagger-ui;<2.2.1;>=2.2.1;moderate;https://npmjs.com/advisories/987
+986;swagger-ui;<2.2.1;>=2.2.1;moderate;https://npmjs.com/advisories/986
+985;swagger-ui;<3.0.13;>=3.0.13;moderate;https://npmjs.com/advisories/985
+983;diagram-js-direct-editing;<1.4.3;>=1.4.3;moderate;https://npmjs.com/advisories/983
+982;diagram-js;<2.6.2 || >=3.0.0 <3.3.1;>=2.6.2 <3.0.0 || >=3.3.1;moderate;https://npmjs.com/advisories/982
+981;keystone;<4.0.0;>=4.0.0;moderate;https://npmjs.com/advisories/981
+980;keystone;<4.0.0;>=4.0.0;high;https://npmjs.com/advisories/980
+979;keystone;<4.0.0;>=4.0.0;high;https://npmjs.com/advisories/979
+978;keycloak-connect;<4.4.0;>=4.4.0;moderate;https://npmjs.com/advisories/978
+977;wizard-syncronizer;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/977
+976;swagger-ui;<3.20.9;>=3.20.9;moderate;https://npmjs.com/advisories/976
+975;swagger-ui;<3.18.0;>=3.18.0;moderate;https://npmjs.com/advisories/975
+974;converse.js;<1.0.7 || >=2.0.0 <2.0.5;>=1.0.7 <2.0.0 || >=2.0.5;moderate;https://npmjs.com/advisories/974
+973;dojo;<1.2.0;>=1.2.0;moderate;https://npmjs.com/advisories/973
+972;dojo;<1.4.2;>=1.4.2;moderate;https://npmjs.com/advisories/972
+971;serve;<10.0.2;>=10.0.2;high;https://npmjs.com/advisories/971
+970;memjs;<1.2.2;>=1.2.2;moderate;https://npmjs.com/advisories/970
+969;samlify;<2.4.0;>=2.4.0;high;https://npmjs.com/advisories/969
+968;simplehttpserver;<0.2.1;>=0.2.1;high;https://npmjs.com/advisories/968
+967;static-resource-server;>=0;<0.0.0;high;https://npmjs.com/advisories/967
+966;kill-port;<1.3.2;>=1.3.2;high;https://npmjs.com/advisories/966
+965;serve;<10.1.2;>=10.1.2;high;https://npmjs.com/advisories/965
+964;cordova-android;<6.0.0;>=6.0.0;moderate;https://npmjs.com/advisories/964
+963;resquel;>=0;<0;high;https://npmjs.com/advisories/963
+962;bigint-money;<0.6.2;>=0.6.2;low;https://npmjs.com/advisories/962
+961;node-sass;>=3.3.0 <4.13.1;>=4.13.1;low;https://npmjs.com/advisories/961
+960;wxchangba;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/960
+959;atompm;<0.8.2;>=0.8.2;high;https://npmjs.com/advisories/959
+958;soletta-dev-app;>=0;<0;high;https://npmjs.com/advisories/958
+957;ids-enterprise;<4.18.2;>=4.18.2;high;https://npmjs.com/advisories/957
+956;ids-enterprise;<4.18.2;>=4.18.2;high;https://npmjs.com/advisories/956
+955;ids-enterprise;<4.18.2;>=4.18.2;high;https://npmjs.com/advisories/955
+954;addax;<1.1.0;>=1.1.0;high;https://npmjs.com/advisories/954
+953;expressfs;>=0;<0;high;https://npmjs.com/advisories/953
+952;node-wifi;<2.0.12;>=2.0.12;critical;https://npmjs.com/advisories/952
+951;maleficent;>=0;<0;critical;https://npmjs.com/advisories/951
+950;sails-mysql;<0.10.8;>=0.10.8;high;https://npmjs.com/advisories/950
+949;pm-controls;1.1.8;<1.1.8||>1.1.8;critical;https://npmjs.com/advisories/949
+948;ngx-pica;1.1.5;<1.1.5||>1.1.5;critical;https://npmjs.com/advisories/948
+947;mx-nested-menu;0.1.30;<0.1.30||>0.1.30;critical;https://npmjs.com/advisories/947
+946;react-datepicker-plus;2.4.2 2.4.3;<2.4.2 >2.4.3;critical;https://npmjs.com/advisories/946
+945;vue-backbone;0.1.2;<0.1.2||>0.1.2;critical;https://npmjs.com/advisories/945
+944;scroool;0.1.7;<0.1.7||>0.1.7;critical;https://npmjs.com/advisories/944
+943;radicjs;0.2.1;<0.2.1||>0.2.1;critical;https://npmjs.com/advisories/943
+942;radic-util;1.0.2;<1.0.2||>1.0.2;critical;https://npmjs.com/advisories/942
+941;precode.js;1.1.1;<1.1.1||>1.1.1;critical;https://npmjs.com/advisories/941
+940;ng-ui-library;1.0.987;<1.0.987||>1.0.987;critical;https://npmjs.com/advisories/940
+939;motiv.scss;0.4.20;<0.4.20||>0.4.20;critical;https://npmjs.com/advisories/939
+938;libubx;1.0.3;<1.0.3||>1.0.3;critical;https://npmjs.com/advisories/938
+937;leaflet-gpx;1.0.1;<1.0.1||>1.0.1;critical;https://npmjs.com/advisories/937
+936;jekyll-for-github-projects;0.2.12;<0.2.12||>0.2.12;critical;https://npmjs.com/advisories/936
+935;grunt-radical;0.0.14;<0.0.14||>0.0.14;critical;https://npmjs.com/advisories/935
+934;grunt-radic;0.1.1;<0.1.1||>0.1.1;critical;https://npmjs.com/advisories/934
+933;github-jquery-widgets;0.1.2;<0.1.2||>0.1.2;critical;https://npmjs.com/advisories/933
+932;geoheat;1.3.2;<1.3.2||>1.3.2;critical;https://npmjs.com/advisories/932
+931;ember-power-timepicker;1.0.8;<1.0.8||>1.0.8;critical;https://npmjs.com/advisories/931
+930;angular-location-update;0.0.3;<0.0.3||>0.0.3;critical;https://npmjs.com/advisories/930
+929;test-module-a;>=0;<0.0.0;critical;https://npmjs.com/advisories/929
+927;electron-native-notify;>=0;<0.0.0;critical;https://npmjs.com/advisories/927
+926;wiki-plugin-datalog;<0.1.6;>=0.1.6;high;https://npmjs.com/advisories/926
+925;epress;>=0;<0.0.0;critical;https://npmjs.com/advisories/925
+924;commqnder;>=0;<0.0.0;critical;https://npmjs.com/advisories/924
+923;commmander;>=0;<0.0.0;critical;https://npmjs.com/advisories/923
+921;blubird;>=0;<0.0.0;critical;https://npmjs.com/advisories/921
+920;shrugging-logging;>=0;<0.0.0;critical;https://npmjs.com/advisories/920
+919;font-scrubber;>=0;<0.0.0;critical;https://npmjs.com/advisories/919
+918;angluar-cli;>=0;<0.0.0;critical;https://npmjs.com/advisories/918
+917;@apollo/gateway;<0.6.2;>=0.6.2;high;https://npmjs.com/advisories/917
+916;ipfs-bitswap;<0.24.1;>=0.24.1;moderate;https://npmjs.com/advisories/916
+915;loopback;<=2.41.0 || >=3.0.0 <=3.25.0;>=2.42.0 <3.0.0 || >=3.26.0;low;https://npmjs.com/advisories/915
+914;kraken-api;0.1.8;<0.1.8||>0.1.8;critical;https://npmjs.com/advisories/914
+913;rimrafall;>=0;<0.0.0;critical;https://npmjs.com/advisories/913
+912;yeoman-genrator;>=0;<0.0.0;critical;https://npmjs.com/advisories/912
+911;uglyfi-js;>=0;<0.0.0;critical;https://npmjs.com/advisories/911
+910;tensorplow;>=0;<0.0.0;critical;https://npmjs.com/advisories/910
+909;require-ports;>=0;<0.0.0;critical;https://npmjs.com/advisories/909
+908;logsymbles;>=0;<0.0.0;critical;https://npmjs.com/advisories/908
+907;jquerz;>=0;<0.0.0;critical;https://npmjs.com/advisories/907
+906;jqeury;>=0;<0.0.0;critical;https://npmjs.com/advisories/906
+905;hulp;>=0;<0.0.0;critical;https://npmjs.com/advisories/905
+904;froever;>=0;<0.0.0;critical;https://npmjs.com/advisories/904
+903;colour-string;>=0;<0.0.0;critical;https://npmjs.com/advisories/903
+902;colro-name;>=0;<0.0.0;critical;https://npmjs.com/advisories/902
+900;browserift;>=0;<0.0.0;critical;https://npmjs.com/advisories/900
+899;bowe;>=0;<0.0.0;critical;https://npmjs.com/advisories/899
+898;whiteproject;>=0;<0.0.0;critical;https://npmjs.com/advisories/898
+897;bowee;>=0;<0.0.0;critical;https://npmjs.com/advisories/897
+896;saync;>=0;<0.0.0;critical;https://npmjs.com/advisories/896
+895;reqest;>=0;<0.0.0;critical;https://npmjs.com/advisories/895
+894;ag-grid-community;<14.0.0;>=14.0.0;high;https://npmjs.com/advisories/894
+893;lutils-merge;>=0;<0.0.0;moderate;https://npmjs.com/advisories/893
+891;bootstrap;<3.4.1 || >=4.0.0 <4.3.1;>=3.4.1 <4.0.0 || >=4.3.1;moderate;https://npmjs.com/advisories/891
+890;destroyer-of-worlds;>=0;<0.0.0;critical;https://npmjs.com/advisories/890
+889;algo-httpserv;<1.1.2;>=1.1.2;high;https://npmjs.com/advisories/889
+888;value-censorship;>=0;<0;moderate;https://npmjs.com/advisories/888
+887;donotinstallthis;>=0;<0.0.0;critical;https://npmjs.com/advisories/887
+886;fstream;<1.0.12;>=1.0.12;high;https://npmjs.com/advisories/886
+885;fomantic-ui;<2.7.0;>=2.7.0;high;https://npmjs.com/advisories/885
+884;simditor;<2.3.22;>=2.3.22;high;https://npmjs.com/advisories/884
+883;jquery-mobile;>=0;<0.0.0;high;https://npmjs.com/advisories/883
+882;bootbox;>=0;<0.0.0;moderate;https://npmjs.com/advisories/882
+880;axios;<0.18.1;>=0.18.1;moderate;https://npmjs.com/advisories/880
+878;google-closure-library;<20190301.0.0;>=20190301.0.0;moderate;https://npmjs.com/advisories/878
+877;web3;>=0;<0.0.0;low;https://npmjs.com/advisories/877
+876;wangeditor;>=0;<0.0.0;high;https://npmjs.com/advisories/876
+874;carloprojectdiscord;>=0;<0.0.0;critical;https://npmjs.com/advisories/874
+873;discord_debug_log;>=0;<0.0.0;critical;https://npmjs.com/advisories/873
+872;carloprojectlesang;>=0;<0.0.0;critical;https://npmjs.com/advisories/872
+871;erquest;>=0;<0.0.0;critical;https://npmjs.com/advisories/871
+870;rqeuest;>=0;<0.0.0;critical;https://npmjs.com/advisories/870
+869;requset;>=0;<0.0.0;critical;https://npmjs.com/advisories/869
+868;requets;>=0;<0.0.0;critical;https://npmjs.com/advisories/868
+867;equest;>=0;<0.0.0;critical;https://npmjs.com/advisories/867
+866;reuest;>=0;<0.0.0;critical;https://npmjs.com/advisories/866
+865;requst;>=0;<0.0.0;critical;https://npmjs.com/advisories/865
+864;requet;>=0;<0.0.0;critical;https://npmjs.com/advisories/864
+863;reques;>=0;<0.0.0;critical;https://npmjs.com/advisories/863
+862;rrequest;>=0;<0.0.0;critical;https://npmjs.com/advisories/862
+861;reequest;>=0;<0.0.0;critical;https://npmjs.com/advisories/861
+860;reqquest;>=0;<0.0.0;critical;https://npmjs.com/advisories/860
+859;requuest;>=0;<0.0.0;critical;https://npmjs.com/advisories/859
+858;requeest;>=0;<0.0.0;critical;https://npmjs.com/advisories/858
+857;requesst;>=0;<0.0.0;critical;https://npmjs.com/advisories/857
+856;requestt;>=0;<0.0.0;critical;https://npmjs.com/advisories/856
+855;calk;>=0;<0.0.0;critical;https://npmjs.com/advisories/855
+854;chak;>=0;<0.0.0;critical;https://npmjs.com/advisories/854
+853;eact;>=0;<0.0.0;critical;https://npmjs.com/advisories/853
+852;experss;>=0;<0.0.0;critical;https://npmjs.com/advisories/852
+851;exprss;>=0;<0.0.0;critical;https://npmjs.com/advisories/851
+850;commnader;>=0;<0.0.0;critical;https://npmjs.com/advisories/850
+849;momen;>=0;<0.0.0;critical;https://npmjs.com/advisories/849
+848;aysnc;>=0;<0.0.0;critical;https://npmjs.com/advisories/848
+847;asnyc;>=0;<0.0.0;critical;https://npmjs.com/advisories/847
+846;asycn;>=0;<0.0.0;critical;https://npmjs.com/advisories/846
+845;asnc;>=0;<0.0.0;critical;https://npmjs.com/advisories/845
+844;aasync;>=0;<0.0.0;critical;https://npmjs.com/advisories/844
+843;asyync;>=0;<0.0.0;critical;https://npmjs.com/advisories/843
+842;asynnc;>=0;<0.0.0;critical;https://npmjs.com/advisories/842
+841;asymc;>=0;<0.0.0;critical;https://npmjs.com/advisories/841
+840;asinc;>=0;<0.0.0;critical;https://npmjs.com/advisories/840
+839;wepack-cli;>=0;<0.0.0;critical;https://npmjs.com/advisories/839
+838;jajajejejiji;>=0;<0.0.0;critical;https://npmjs.com/advisories/838
+837;4equest;>=0;<0.0.0;critical;https://npmjs.com/advisories/837
+835;preact;>=10.0.0-alpha.0 <10.0.0-beta.1;>=10.0.0-beta.1;moderate;https://npmjs.com/advisories/835
+834;graphql-code-generator;<0.18.2;>=0.18.2;high;https://npmjs.com/advisories/834
+833;verdaccio;<3.12.0;>=3.12.0;moderate;https://npmjs.com/advisories/833
+832;verdaccio;<3.12.0;>=3.12.0;moderate;https://npmjs.com/advisories/832
+831;jwt-simple;<0.5.3;>=0.5.3;high;https://npmjs.com/advisories/831
+830;ecstatic;<2.2.2 || >=3.0.0 <3.3.2 || >=4.0.0 <4.1.2;>=2.2.2 <3.0.0 || >=3.3.2 <4.0.0 || >=4.1.2;high;https://npmjs.com/advisories/830
+829;cocos-utils;>=0;<0.0.0;high;https://npmjs.com/advisories/829
+828;redbird;<0.9.1;>=0.9.1;moderate;https://npmjs.com/advisories/828
+827;express-basic-auth;<1.2.0;>=1.2.0;low;https://npmjs.com/advisories/827
+826;webpack-bundle-analyzer;<3.3.2;>=3.3.2;moderate;https://npmjs.com/advisories/826
+825;sequelize-cli;<5.5.0;>=5.5.0;low;https://npmjs.com/advisories/825
+824;puppeteer;<1.13.0;>=1.13.0;high;https://npmjs.com/advisories/824
+823;express-brute;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/823
+822;shave;<2.5.3;>=2.5.3;high;https://npmjs.com/advisories/822
+821;sequelize;<3.0.0 || >=5.0.0 <5.3.0;>=3.0.0 <5.0.0 || >=5.3.0;moderate;https://npmjs.com/advisories/821
+820;sequelize;<4.12.0;>=4.12.0;high;https://npmjs.com/advisories/820
+819;typed-function;<0.10.6;>=0.10.6;high;https://npmjs.com/advisories/819
+818;materialize-css;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/818
+817;materialize-css;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/817
+816;harp;>=0;<0.0.0;moderate;https://npmjs.com/advisories/816
+815;simple-markdown;<0.4.4;>=0.4.4;high;https://npmjs.com/advisories/815
+814;@nuxt/devalue;<1.2.3;>=1.2.3;high;https://npmjs.com/advisories/814
+813;js-yaml;<3.13.1;>=3.13.1;high;https://npmjs.com/advisories/813
+812;marked;>=0.3.14 <0.6.2;>=0.6.2;moderate;https://npmjs.com/advisories/812
+811;glance;<3.0.7;>=3.0.7;moderate;https://npmjs.com/advisories/811
+810;buttle;>=0;<0.0.0;moderate;https://npmjs.com/advisories/810
+809;upmerge;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/809
+808;express-cart;>=0;<0.0.0;low;https://npmjs.com/advisories/808
+807;harp;>=0;<0.0.0;moderate;https://npmjs.com/advisories/807
+806;harp;>=0;<0.0.0;moderate;https://npmjs.com/advisories/806
+805;statics-server;>=0;<0.0.0;moderate;https://npmjs.com/advisories/805
+804;canvas;<1.6.10;>=1.6.10;moderate;https://npmjs.com/advisories/804
+803;tar;<2.2.2 || >=3.0.0 <4.4.2;>=2.2.2 <3.0.0 || >=4.4.2;high;https://npmjs.com/advisories/803
+802;servey;<=2.2.0;>2.2.0;moderate;https://npmjs.com/advisories/802
+575;squel;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/575
+574;electron;>0.4.1 < 1.7.13 || >=1.8.0 <1.8.4 || 2.0.0-beta.1 || 2.0.0-beta.2 || 2.0.0-beta.3 || 2.0.0-beta.4;>=1.7.13 <1.8.0 || >=1.8.4 <2.0.0 || >=2.0.0-beta.5;high;https://npmjs.com/advisories/574
+573;resolve-path;<1.4.0;>=1.4.0;high;https://npmjs.com/advisories/573
+572;is-my-json-valid;<1.4.1 || >=2.0.0 <2.17.2;>=1.4.1 <2.0.0 || >=2.17.2;low;https://npmjs.com/advisories/572
+571;public;<=0.1.2;>=0.1.3;high;https://npmjs.com/advisories/571
+570;crud-file-server;<=0.7.0;>=0.8.0;critical;https://npmjs.com/advisories/570
+569;html-janitor;<2.0.4;>=2.0.4;high;https://npmjs.com/advisories/569
+568;constantinople;<3.1.1;>=3.1.1;critical;https://npmjs.com/advisories/568
+567;saml2-js;<= 1.12.3 || >= 2.0.0 <=2.0.1;>= 1.12.4 < 2.0.0 || >= 2.0.2;moderate;https://npmjs.com/advisories/567
+566;hoek;<= 4.2.0 || >= 5.0.0 < 5.0.3;> 4.2.0 < 5.0.0 || >= 5.0.3;moderate;https://npmjs.com/advisories/566
+565;ssri;<=5.2.1;>=5.2.2;moderate;https://npmjs.com/advisories/565
+564;fastify;<=0.37.0;>=0.38.0;high;https://npmjs.com/advisories/564
+563;electron;>0.4.1 <=1.6.16 || >=1.7.0 <=1.7.11 || >= 1.8.0 <1.8.2;>1.6.16 <1.7.0 || >1.7.11 <1.8.0 || >=1.8.2;critical;https://npmjs.com/advisories/563
+562;redis-commander;>=0.0.0;<0.0.0;low;https://npmjs.com/advisories/562
+561;serve;<=6.4.8;>=6.4.9;moderate;https://npmjs.com/advisories/561
+560;lactate;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/560
+559;augustine;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/559
+558;libp2p-secio;<=0.8.1;>0.8.1;critical;https://npmjs.com/advisories/558
+557;@vivaxy/here;<=3.2.1;>=3.2.2;high;https://npmjs.com/advisories/557
+556;featurebook;>=0;<0;moderate;https://npmjs.com/advisories/556
+555;mqtt;>=2.0.0 <=2.14.0;>=2.15.0;moderate;https://npmjs.com/advisories/555
+554;serve-here;>=0;<0.0.0;high;https://npmjs.com/advisories/554
+553;ecstatic;< 2.0.0;>=2.0.0;moderate;https://npmjs.com/advisories/553
+552;mathjs;<3.17.0;>=3.17.0;critical;https://npmjs.com/advisories/552
+551;mathjs;<3.17.0;>=3.17.0;critical;https://npmjs.com/advisories/551
+550;ws;<1.1.5 || >=2.0.0 <3.3.1;>= 1.1.5 <2.0.0 || >=3.3.1;high;https://npmjs.com/advisories/550
+549;hooka-tools;>=0.0.0;<0.0.0;low;https://npmjs.com/advisories/549
+548;static-eval;<=1.1.1;>=2.0.0;moderate;https://npmjs.com/advisories/548
+547;st;<=1.2.1;>=1.2.2;moderate;https://npmjs.com/advisories/547
+546;aegir;>=12.0.0 <= 12.0.7;>= 12.0.8;high;https://npmjs.com/advisories/546
+545;discordi.js;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/545
+544;jquey;1.0.1;<0.0.0;moderate;https://npmjs.com/advisories/544
+543;coffe-script;1.0.1;<0.0.0;moderate;https://npmjs.com/advisories/543
+542;coffescript;1.0.1;<0.0.0;moderate;https://npmjs.com/advisories/542
+541;cofeescript;1.0.1;<0.0.0;moderate;https://npmjs.com/advisories/541
+540;cofee-script;1.0.1;<0.0.0;moderate;https://npmjs.com/advisories/540
+539;electron;>0.4.1 <1.6.14 || >= 1.7.0 < 1.7.8;>=1.6.14 < 1.7.0 ||  >= 1.7.8;high;https://npmjs.com/advisories/539
+538;method-override;<= 1.0.2 || > 2.0.0 < 2.3.10;> 1.0.2 < 2.0.0 || >= 2.3.10;high;https://npmjs.com/advisories/538
+537;slug;<=0.9.1;>=0.9.2;moderate;https://npmjs.com/advisories/537
+536;string;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/536
+535;mime;< 1.4.1 || > 2.0.0 < 2.0.3;>= 1.4.1 < 2.0.0 || >= 2.0.3;moderate;https://npmjs.com/advisories/535
+534;debug;<= 2.6.8 || >= 3.0.0 <= 3.0.1;>= 2.6.9 < 3.0.0 || >= 3.1.0;low;https://npmjs.com/advisories/534
+533;timespan;>=0.0.0;<0.0.0;low;https://npmjs.com/advisories/533
+532;moment;<2.19.3;>=2.19.3;low;https://npmjs.com/advisories/532
+531;marked;<0.3.9;>=0.3.9;high;https://npmjs.com/advisories/531
+530;content;<=3.0.5;>=3.0.6;high;https://npmjs.com/advisories/530
+529;no-case;<2.3.2;>=2.3.2;high;https://npmjs.com/advisories/529
+528;parsejson;<=0.0.3;<0.0.0;high;https://npmjs.com/advisories/528
+527;forwarded;< 0.1.2;>= 0.1.2;high;https://npmjs.com/advisories/527
+526;fresh;< 0.5.2;>= 0.5.2;high;https://npmjs.com/advisories/526
+525;tough-cookie;<2.3.3;>=2.3.3;high;https://npmjs.com/advisories/525
+524;charset;<1.0.0;>=1.0.1;moderate;https://npmjs.com/advisories/524
+523;dns-sync;<0.1.1;>=0.1.1;critical;https://npmjs.com/advisories/523
+521;pg;< 2.11.2 || >= 3.0.0 < 3.6.4 ||  >= 4.0.0 < 4.5.7 || >= 5.0.0 < 5.2.1 || >= 6.0.0 < 6.0.5 || >= 6.1.0 < 6.1.6 || >= 6.2.0 < 6.2.5 || >= 6.3.0 < 6.3.3 || >= 6.4.0 < 6.4.2 || >= 7.0.0 < 7.0.2 || >= 7.1.0 < 7.1.2;>= 2.11.2 < 3.0.0|| >= 3.6.4 < 4.0.0 ||  >= 4.5.7 < 5.0.0 || >= 5.2.1 < 6.0.0 || >= 6.0.5  < 6.1.0 || >= 6.1.6 < 6.2.0 || >= 6.2.5 < 6.3.0 || >= 6.3.3 < 6.4.0 || >= 6.4.2 < 7.0.0 || >= 7.0.2 < 7.1.0 || >= 7.1.2;high;https://npmjs.com/advisories/521
+520;cross-env.js;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/520
+519;nodesass;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/519
+518;smb;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/518
+517;shadowsock;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/517
+516;mongose;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/516
+515;proxy.js;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/515
+514;http-proxy.js;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/514
+513;crossenv;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/513
+512;noderequest;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/512
+511;nodemailer.js;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/511
+510;nodemailer-js;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/510
+509;nodecaffe;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/509
+508;nodeffmpeg;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/508
+507;ffmepg;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/507
+506;node-opencv;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/506
+505;opencv.js;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/505
+504;openssl.js;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/504
+503;node-openssl;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/503
+502;node-opensl;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/502
+501;node-tkinter;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/501
+500;tkinter;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/500
+499;babelcli;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/499
+498;gruntcli;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/498
+497;d3.js;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/497
+496;jquery.js;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/496
+495;mariadb;2.13.0;<2.13.0 || >2.13.0;moderate;https://npmjs.com/advisories/495
+494;mysqljs;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/494
+493;node-sqlite;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/493
+492;nodesqlite;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/492
+491;sqlite.js;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/491
+490;sqliter;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/490
+489;node-fabric;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/489
+488;nodefabric;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/488
+487;fabric-js;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/487
+486;sqlserver;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/486
+485;mssql.js;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/485
+484;nodemssql;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/484
+483;botbait;>=0.0.0;<0.0.0;low;https://npmjs.com/advisories/483
+482;pandora-doomsday;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/482
+481;npm-script-demo;>=0;<0.0.0;moderate;https://npmjs.com/advisories/481
+480;mssql-node;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/480
+479;superagent;<3.7.0;>=3.7.0;low;https://npmjs.com/advisories/479
+478;exxxxxxxxxxx;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/478
+477;unicorn-list;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/477
+476;jikes;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/476
+475;lab6.brit95;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/475
+474;lab6drewfusbyu;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/474
+473;goserv;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/473
+472;http_static_simple;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/472
+471;infraserver;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/471
+470;commentapp.stetsonwood;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/470
+469;myserver.alexcthomas18;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/469
+468;section2.madisonjbrooks12;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/468
+467;utahcityfinder;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/467
+466;whispercast;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/466
+465;ewgaddis.lab6;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/465
+464;jansenstuffpleasework;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/464
+463;sspa;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/463
+462;chatbyvista;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/462
+461;intsol-package;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/461
+460;dasafio;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/460
+459;serverabc;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/459
+458;wintiwebdev;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/458
+456;serve46;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/456
+455;serverxxx;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/455
+454;iter-server;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/454
+453;scott-blanch-weather-app;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/453
+452;simple-npm-registry;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/452
+451;yjmyjmyjm;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/451
+450;uekw1511server;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/450
+449;fbr-client;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/449
+448;360class.jansenhm;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/448
+447;open-device;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/447
+446;nodeaaaaa;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/446
+445;mockserve;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/445
+444;dgard8.lab6;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/444
+443;reecerver;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/443
+442;sly07;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/442
+441;yttivy;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/441
+440;cypserver;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/440
+439;dcdcdcdcdc;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/439
+438;getcityapi.yoehoehne;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/438
+437;mfrs;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/437
+436;picard;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/436
+435;pytservce;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/435
+434;qinserve;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/434
+433;quickserver;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/433
+432;ritp;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/432
+431;serverzyy;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/431
+430;shit-server;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/430
+429;susu-sum;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/429
+428;uv-tj-demo;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/428
+427;zjjserver;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/427
+426;dmmcquay.lab6;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/426
+425;enserver;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/425
+424;jn_jj_server;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/424
+423;lessindex;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/423
+422;ltt;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/422
+421;mfrserver;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/421
+420;peiserver;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/420
+419;sgqserve;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/419
+418;tencent-server;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/418
+417;wind-mvc;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/417
+416;yzt;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/416
+415;elding;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/415
+414;hcbserver;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/414
+413;liuyaserver;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/413
+412;looppake;>=0;<0.0.0;high;https://npmjs.com/advisories/412
+411;ltt.js;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/411
+410;nodeload-nmickuli;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/410
+409;wenluhong1;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/409
+408;city-weather-abe;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/408
+407;wffserve;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/407
+400;yyooopack;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/400
+399;byucslabsix;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/399
+398;calmquist.static-server;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/398
+397;desafio;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/397
+396;dylmomo;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/396
+395;11xiaoli;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/395
+394;caolilinode;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/394
+393;dcserver;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/393
+392;censorify.tanisjr;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/392
+391;datachannel-client;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/391
+390;22lixian;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/390
+389;shenliru;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/389
+388;welcomyzt;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/388
+387;liyujing;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/387
+386;myprolyz;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/386
+385;rtcmulticonnection-client;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/385
+384;hftp;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/384
+383;fast-http-cli;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/383
+382;node-server-forfront;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/382
+381;cuciuci;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/381
+380;earlybird;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/380
+379;weather.swlyons;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/379
+378;gaoxuyan;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/378
+377;gaoxiaotingtingting;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/377
+376;static-html-server;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/376
+375;tmock;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/375
+374;wangguojing123;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/374
+373;easyquick;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/373
+372;zwserver;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/372
+371;tinyserver2;<=0.5.2;>=0.6.0;high;https://npmjs.com/advisories/371
+370;citypredict.whauwiller;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/370
+367;serverliujiayi1;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/367
+366;serverhuwenhui;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/366
+365;serverlyr;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/365
+364;serverwg;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/364
+363;serverwzl;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/363
+360;fs-git;<=1.0.1;>=1.0.2;high;https://npmjs.com/advisories/360
+356;pidusage;<=1.1.4;>=1.1.5;critical;https://npmjs.com/advisories/356
+355;serveryaozeyan;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/355
+354;serveryztyzt;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/354
+352;node-simple-router;<=0.10.0;>=0.10.1;high;https://npmjs.com/advisories/352
+350;gomeplus-h5-proxy;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/350
+349;badjs-sourcemap-server;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/349
+347;cyber-js;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/347
+346;f2e-server;<= 1.12.11;>=1.12.12;high;https://npmjs.com/advisories/346
+345;fsk-server;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/345
+344;list-n-stream;<=0.0.10;>=0.0.11;high;https://npmjs.com/advisories/344
+343;iter-http;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/343
+342;tiny-http;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/342
+341;pooledwebsocket;>=0.0.1 <=0.0.18;>=0.0.19;high;https://npmjs.com/advisories/341
+340;sencisho;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/340
+339;xtalk;>=0.0.2;<0.0.0;high;https://npmjs.com/advisories/339
+338;brace-expansion;<=1.1.6;>=1.1.7;moderate;https://npmjs.com/advisories/338
+337;safe-eval;<0.4.0;>=0.4.0;critical;https://npmjs.com/advisories/337
+336;windows-cpu;< 0.1.5;>= 0.1.5;high;https://npmjs.com/advisories/336
+335;hapi;>= 15.0.0 <= 16.1.0;>= 16.1.1;moderate;https://npmjs.com/advisories/335
+334;hubl-server;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/334
+332;yui;>=3.0.0 <=3.9.1 =3.10.2;=3.10.1 >=3.10.3;moderate;https://npmjs.com/advisories/332
+331;nes;<=6.4.0;>=6.4.1;high;https://npmjs.com/advisories/331
+330;jquery;>=2.10 <=2.2.4;>=3.0.0;moderate;https://npmjs.com/advisories/330
+329;jquery;>=1.7.1 <=1.8.3;>=1.9.0;high;https://npmjs.com/advisories/329
+328;jquery;>=1.4.0 <=1.11.3 || >=1.12.4 <=2.2.4;>=3.0.0;high;https://npmjs.com/advisories/328
+327;ag-grid;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/327
+326;i18next;>=2.0.0 <=3.4.3;>=3.4.4;moderate;https://npmjs.com/advisories/326
+325;i18next;<=1.10.2;>=1.10.3;moderate;https://npmjs.com/advisories/325
+324;node-jose;<0.9.3;>=0.9.3;high;https://npmjs.com/advisories/324
+323;http-proxy;<=0.6.6;>=0.7.0;moderate;https://npmjs.com/advisories/323
+322;shout;>=0.44.0 <=0.49.3;>=0.50.0;moderate;https://npmjs.com/advisories/322
+321;socket.io;<=0.9.6;>=0.9.7;moderate;https://npmjs.com/advisories/321
+319;remarkable;<=1.6.2;>=1.7.0;high;https://npmjs.com/advisories/319
+318;http-signature;<=0.9.11;>=0.10.0;low;https://npmjs.com/advisories/318
+317;mobile-icon-resizer;>=0.2.0 <=0.4.2;>=0.4.3;critical;https://npmjs.com/advisories/317
+316;ua-parser;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/316
+315;summit;>=0.1.0;<0.0.0;moderate;https://npmjs.com/advisories/315
+314;restify;>=2.0.0 <=4.0.4;>=4.1.0;moderate;https://npmjs.com/advisories/314
+313;serialize-to-js;<=0.5.0;>=1.0.0;critical;https://npmjs.com/advisories/313
+312;useragent;<=2.1.12;>=2.1.13;high;https://npmjs.com/advisories/312
+311;node-serialize;>=0.0.0;<0.0.0;critical;https://npmjs.com/advisories/311
+310;sync-exec;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/310
+309;request;>=2.2.6 <2.47.0 || >2.51.0 <=2.67.0;>=2.68.0;moderate;https://npmjs.com/advisories/309
+308;decamelize;>=1.1.0 <=1.1.1;>=1.1.2;high;https://npmjs.com/advisories/308
+307;morris.js;<=0.5.0;<0.0.0;moderate;https://npmjs.com/advisories/307
+305;fury-adapter-swagger;>= 0.2.0 <= 0.9.6 || ~0.8.0-pre;> 0.9.6;critical;https://npmjs.com/advisories/305
+304;windows-build-tools;<1.0.0;>=1.0.0;high;https://npmjs.com/advisories/304
+303;hostr;<=2.3.5;>=2.3.6;moderate;https://npmjs.com/advisories/303
+302;react-native-baidu-voice-synthesizer;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/302
+301;mystem-fix;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/301
+300;haxeshim;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/300
+299;pm2-kafka;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/299
+298;openframe-ascii-image;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/298
+297;npm-test-sqlite3-trunk;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/297
+296;windows-seleniumjar;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/296
+295;windows-latestchromedriver;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/295
+294;haxe3;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/294
+293;windows-iedriver;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/293
+292;roslib-socketio;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/292
+291;gfe-sass;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/291
+290;massif;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/290
+289;pk-app-wonderbox;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/289
+288;healthcenter;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/288
+287;fis-sass-all;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/287
+286;arcanist;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/286
+285;windows-selenium-chromedriver;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/285
+284;selenium-standalone-painful;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/284
+283;adamvr-geoip-lite;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/283
+282;cloudpub-redis;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/282
+281;windows-seleniumjar-mirror;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/281
+280;mystem-wrapper;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/280
+279;ipip-coffee;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/279
+278;fuseki;<1.0.1;>=1.0.1;high;https://npmjs.com/advisories/278
+277;serc.js;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/277
+276;limbus-buildgen;<0.1.1;>=0.1.1;high;https://npmjs.com/advisories/276
+275;libsbmlsim;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/275
+274;google-closure-tools-latest;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/274
+273;rs-brightcove;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/273
+272;libsbml;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/272
+271;poco;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/271
+270;soci;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/270
+269;fis-parser-sass-bin;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/269
+268;co-cli-installer;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/268
+267;tomita;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/267
+266;qbs;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/266
+265;clang-extra;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/265
+264;wixtoolset;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/264
+263;native-opencv;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/263
+262;phantomjs-cheniu;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/262
+261;tomita-parser;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/261
+260;selenium-portal;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/260
+259;mystem;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/259
+258;herbivore;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/258
+257;xd-testing;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/257
+256;sfml;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/256
+255;grunt-images;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/255
+254;resourcehacker;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/254
+253;ntfserver;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/253
+252;marionette-socket-host;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/252
+251;kindlegen;<1.1.0;>=1.1.0;high;https://npmjs.com/advisories/251
+250;node-air-sdk;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/250
+249;ikst;<1.1.2;>=1.1.2;high;https://npmjs.com/advisories/249
+248;prebuild-lwip;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/248
+247;frames-compiler;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/247
+246;webdriver-launcher;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/246
+245;apk-parser3;<0.1.3;>=0.1.3;high;https://npmjs.com/advisories/245
+244;jstestdriver;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/244
+243;slimerjs-edge;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/243
+242;broccoli-closure;<1.3.1;>=1.3.1;high;https://npmjs.com/advisories/242
+241;js-given;<0.0.18;>=0.0.18;high;https://npmjs.com/advisories/241
+240;baryton-saxophone;<3.0.1;>=3.0.1;high;https://npmjs.com/advisories/240
+239;grunt-ccompiler;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/239
+238;redis-srvr;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/238
+237;haxe-dev;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/237
+236;node-thulac;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/236
+235;mongodb-instance;<0.0.3;>=0.0.3;high;https://npmjs.com/advisories/235
+234;node-bsdiff-android;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/234
+233;cmake;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/233
+232;dwebp-bin;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/232
+231;scalajs-standalone-bin;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/231
+230;headless-browser-lite;<2015.4.18-a;>=2015.4.18-a;high;https://npmjs.com/advisories/230
+229;mystem3;<=1.0.7;>1.0.7;high;https://npmjs.com/advisories/229
+228;install-g-test;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/228
+227;scala-bin;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/227
+226;nw-with-arm;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/226
+225;jvminstall;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/225
+224;selenium-wrapper;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/224
+223;apk-parser2;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/223
+222;selenium-chromedriver;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/222
+221;macaca-chromedriver-zxa;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/221
+220;bkjs-wand;<0.3.2;>=0.3.2;high;https://npmjs.com/advisories/220
+219;box2d-native;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/219
+218;openframe-image;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/218
+217;fibjs;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/217
+216;atom-node-module-installer;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/216
+215;curses;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/215
+214;node-browser;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/214
+213;pennyworth;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/213
+212;nodeschnaps;<1.0.3;>=1.0.3;high;https://npmjs.com/advisories/212
+211;bionode-sra;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/211
+210;httpsync;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/210
+209;dalek-browser-ie;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/209
+208;openframe-glslviewer;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/208
+207;grunt-webdriver-qunit;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/207
+206;unicode-json;< 2.0.0;>= 2.0.0;high;https://npmjs.com/advisories/206
+205;dalek-browser-ie-canary;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/205
+204;install-nw;<1.1.5;>=1.1.5;high;https://npmjs.com/advisories/204
+203;chromedriver126;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/203
+202;strider-sauce;<=0.6.3;>0.6.3;high;https://npmjs.com/advisories/202
+201;robot-js;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/201
+200;air-sdk;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/200
+199;dalek-browser-chrome;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/199
+198;jdf-sass;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/198
+197;cobalt-cli;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/197
+196;operadriver;<0.2.3;>=0.2.3;high;https://npmjs.com/advisories/196
+195;apk-parser;<0.1.6;>=0.1.6;high;https://npmjs.com/advisories/195
+194;imageoptim;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/194
+193;webdrvr;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/193
+192;arrayfire-js;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/192
+190;cue-sdk-node;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/190
+189;pngcrush-installer;<1.8.10;>=1.8.10;high;https://npmjs.com/advisories/189
+188;jser-stat;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/188
+187;embedza;<1.2.4;>=1.2.4;high;https://npmjs.com/advisories/187
+186;sauce-connect;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/186
+185;prince;<=1.4.6;>=1.4.6;high;https://npmjs.com/advisories/185
+184;ipip;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/184
+183;geoip-lite-country;<1.1.4;>=1.1.4;high;https://npmjs.com/advisories/183
+182;ibapi;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/182
+181;dalek-browser-chrome-canary;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/181
+180;macaca-chromedriver;<1.0.29;>=1.0.29;high;https://npmjs.com/advisories/180
+179;wasdk;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/179
+178;libxl;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/178
+177;haxe;<=5.0.9;>=5.0.10;high;https://npmjs.com/advisories/177
+176;webrtc-native;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/176
+175;selenium-binaries;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/175
+174;iedriver;<3.0.0;>=3.0.0;high;https://npmjs.com/advisories/174
+173;nodewebkit;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/173
+172;alto-saxophone;<2.25.1;>=2.25.1;high;https://npmjs.com/advisories/172
+171;product-monitor;<2.2.5;>=2.2.5;high;https://npmjs.com/advisories/171
+170;galenframework-cli;<2.3.1;>=2.3.1;high;https://npmjs.com/advisories/170
+169;closurecompiler;<1.6.1;>=1.6.1 ;high;https://npmjs.com/advisories/169
+168;steroids;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/168
+167;aerospike;<2.4.2;>=2.4.2;high;https://npmjs.com/advisories/167
+166;nw;<0.23.6-1;>=0.23.6-1;high;https://npmjs.com/advisories/166
+165;closure-util;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/165
+164;selenium-download;<2.0.7;>=2.0.7;high;https://npmjs.com/advisories/164
+163;ibm_db;<1.0.2;>=1.0.2;high;https://npmjs.com/advisories/163
+162;appium-chromedriver;<2.9.4;>=2.9.4;high;https://npmjs.com/advisories/162
+161;unicode;< 9.0.0;>= 9.0.0;high;https://npmjs.com/advisories/161
+160;chromedriver;<2.26.1;>=2.26.1;high;https://npmjs.com/advisories/160
+159;gitbook;<3.2.2;>=3.2.2;low;https://npmjs.com/advisories/159
+158;forms;<1.3.0;>=1.3.0;moderate;https://npmjs.com/advisories/158
+157;randomatic;<3.0.0;>=3.0.0;low;https://npmjs.com/advisories/157
+156;go-ipfs-dep;<0.4.4;>=0.4.4;high;https://npmjs.com/advisories/156
+155;sanitize-html;<=1.2.2;>=1.2.3;moderate;https://npmjs.com/advisories/155
+154;sanitize-html;<=1.11.1;>=1.11.4;moderate;https://npmjs.com/advisories/154
+153;dns-sync;<0.1.1;>=0.1.1;critical;https://npmjs.com/advisories/153
+152;npm;<1.3.3;>=1.3.3;low;https://npmjs.com/advisories/152
+151;passport-azure-ad;>= 1.0.0 < 1.4.6 || 2.0.0;>= 1.4.6 < 2.0.0 || >= 2.0.1;critical;https://npmjs.com/advisories/151
+150;bitty;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/150
+149;uws;>=0.10.0 <=0.10.8;>=0.10.9;high;https://npmjs.com/advisories/149
+148;sails;<=0.12.7;>0.12.7;high;https://npmjs.com/advisories/148
+147;nunjucks;<=2.4.2;>=2.4.3;moderate;https://npmjs.com/advisories/147
+146;growl;<1.10.2;>=1.10.2;critical;https://npmjs.com/advisories/146
+145;plotly.js;<1.10.4 || >=1.11.0 <1.16.0;>=1.10.4 <1.11.0 || >=1.16.0;moderate;https://npmjs.com/advisories/145
+144;reduce-css-calc;<=1.2.4;>=1.2.5;critical;https://npmjs.com/advisories/144
+143;pouchdb;<=6.0.4;>=6.0.5;critical;https://npmjs.com/advisories/143
+140;mqtt;<=0.3.13;>=1.0.0;high;https://npmjs.com/advisories/140
+139;pivottable;>=1.4.0 <2.0.0;>=2.0.0;high;https://npmjs.com/advisories/139
+138;c3;<=0.4.10;>=0.4.11;moderate;https://npmjs.com/advisories/138
+137;swagger-ui;<2.2.1;>=2.2.1;critical;https://npmjs.com/advisories/137
+136;node-krb5;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/136
+135;sanitize-html;<=1.4.2;>=1.4.3;moderate;https://npmjs.com/advisories/135
+134;cookie-signature;<=1.0.5;>=1.0.6;moderate;https://npmjs.com/advisories/134
+133;fuelux;>3.15.7;<=3.15.7;high;https://npmjs.com/advisories/133
+132;jqtree;<=1.3.3;>=1.3.4;high;https://npmjs.com/advisories/132
+131;swagger-ui;<2.2.1;>=2.2.1;high;https://npmjs.com/advisories/131
+130;tough-cookie;>=0.9.7 <=2.2.2;>=2.3.0;moderate;https://npmjs.com/advisories/130
+129;emojione;<=1.3.0;>=1.3.1;high;https://npmjs.com/advisories/129
+128;rendr;<=1.1.3;>=1.1.4;high;https://npmjs.com/advisories/128
+127;jquery-ui;<=1.11.4;>=1.12.0;high;https://npmjs.com/advisories/127
+126;swagger-ui;<=2.2.0;>=2.2.1;critical;https://npmjs.com/advisories/126
+125;gmail-js;<=0.6.4;>=0.6.5;high;https://npmjs.com/advisories/125
+124;bootstrap-tagsinput;<=0.8.0;<0.0.0;high;https://npmjs.com/advisories/124
+123;swagger-ui;<2.2.1;>=2.2.1;critical;https://npmjs.com/advisories/123
+122;sequelize;<3.23.6;>=3.23.6;critical;https://npmjs.com/advisories/122
+121;call;>= 2.0.1 <3.0.2;>=3.0.2;moderate;https://npmjs.com/advisories/121
+120;ws;<=1.1.0;>=1.1.1;high;https://npmjs.com/advisories/120
+118;minimatch;<=3.0.1;>=3.0.2;high;https://npmjs.com/advisories/118
+117;shell-quote;<=1.6.0;>=1.6.1;critical;https://npmjs.com/advisories/117
+116;igniteui;<=0.0.5;<0.0.0;low;https://npmjs.com/advisories/116
+115;waterline-sequel;0.5.0;>= 0.5.1;high;https://npmjs.com/advisories/115
+114;ezseed-transmission;>= 0.0.10 <= 0.0.14;>= 0.0.15;moderate;https://npmjs.com/advisories/114
+113;sequelize;<= 1.7.0-alpha2;>= 1.7.0-alpha3;moderate;https://npmjs.com/advisories/113
+112;sequelize;<= 3.16.0;>= 3.17.0;high;https://npmjs.com/advisories/112
+109;sequelize;<= 2.1.3;>= 3.0.0;high;https://npmjs.com/advisories/109
+108;backbone;<= 0.3.3;>= 0.5.0;high;https://npmjs.com/advisories/108
+107;dojo;<= 1.0;>= 1.1;moderate;https://npmjs.com/advisories/107
+106;negotiator;<= 0.6.0;>= 0.6.1;high;https://npmjs.com/advisories/106
+104;electron-packager;>= 5.2.1 <= 6.0.0 || >=6.0.0 <= 6.0.2;>= 7.0.0;low;https://npmjs.com/advisories/104
+102;sequelize;<=3.19.3;>=3.20.0;critical;https://npmjs.com/advisories/102
+101;marked;<=0.3.5;>=0.3.6;high;https://npmjs.com/advisories/101
+100;uri-js;<=2.1.1;>=3.0.0;high;https://npmjs.com/advisories/100
+99;engine.io-client;<= 1.6.8;>= 1.6.9;moderate;https://npmjs.com/advisories/99
+98;npm;<= 2.15.0 || >= 3.0.0 <= 3.8.2;>= 2.15.1 <= 3.0.0 || >= 3.8.3;high;https://npmjs.com/advisories/98
+97;jsrender;<=0.9.73;>=0.9.74;critical;https://npmjs.com/advisories/97
+96;airbrake;<=0.3.8;>=0.4.0;moderate;https://npmjs.com/advisories/96
+95;cli;<1.0.0;>=1.0.0;low;https://npmjs.com/advisories/95
+94;csrf-lite;<=0.1.1;>=0.1.2;high;https://npmjs.com/advisories/94
+93;node-uuid;<1.4.4;>=1.4.4;low;https://npmjs.com/advisories/93
+92;express-restify-mongoose;<= 2.4.2 || >= 3.0.0 <=3.0.1;>=2.5.0 <= 3.0.0 || >=3.1.0;high;https://npmjs.com/advisories/92
+91;droppy;<3.5.0;>=3.5.0;high;https://npmjs.com/advisories/91
+90;console-io;<=2.2.13;>=2.3.0;critical;https://npmjs.com/advisories/90
+89;restafary;<1.6.1;>=1.6.1;moderate;https://npmjs.com/advisories/89
+88;jws;<3.0.0;>=3.0.0;high;https://npmjs.com/advisories/88
+87;jwt-simple;<=0.3.0;>=0.3.1;critical;https://npmjs.com/advisories/87
+86;riot-compiler;2.3.21;>2.3.21;moderate;https://npmjs.com/advisories/86
+85;grunt-gh-pages;<=0.9.1;>=1.0.0;moderate;https://npmjs.com/advisories/85
+81;hapi-auth-jwt2;5.1.1;>=5.1.2;critical;https://npmjs.com/advisories/81
+80;i18n-node-angular;<1.4.0;>=1.4.0;high;https://npmjs.com/advisories/80
+77;hawk;< 3.1.3  || >= 4.0.0 <4.1.1;>=3.1.3 < 4.0.0 || >=4.1.1;moderate;https://npmjs.com/advisories/77
+76;is-my-json-valid;<=2.12.3;>=2.12.4;moderate;https://npmjs.com/advisories/76
+75;mqtt-packet;<3.4.6 || > 4.0.0 <4.0.5;>=3.4.6 < 4.0.0|| >=4.0.5;high;https://npmjs.com/advisories/75
+74;mapbox.js;<1.6.6 || < 2.2.4 > 2.0.0;>=1.6.6 <2.0.0 || >= 2.2.4;moderate;https://npmjs.com/advisories/74
+68;bittorrent-dht;<5.1.3;>=5.1.3;moderate;https://npmjs.com/advisories/68
+67;ws;<= 1.0.0;>= 1.0.1;low;https://npmjs.com/advisories/67
+66;mysql;<=v2.0.0-alpha7;>=v2.0.0-alpha8;moderate;https://npmjs.com/advisories/66
+65;hapi;<11.1.4;>=11.1.4;moderate;https://npmjs.com/advisories/65
+64;ecstatic;<1.4.0;>=1.4.0;high;https://npmjs.com/advisories/64
+63;hapi;<11.1.3;>=11.1.3;high;https://npmjs.com/advisories/63
+62;mustache;<2.2.1;>=2.2.1;high;https://npmjs.com/advisories/62
+61;handlebars;<4.0.0;>=4.0.0;high;https://npmjs.com/advisories/61
+60;keystone;<0.3.16;>=0.3.16;low;https://npmjs.com/advisories/60
+59;milliseconds;<0.1.2;>=0.1.2;moderate;https://npmjs.com/advisories/59
+57;tar;<2.0.0;>=2.0.0;critical;https://npmjs.com/advisories/57
+56;send;<0.11.1;>=0.11.1;low;https://npmjs.com/advisories/56
+55;moment;<2.11.2;>=2.11.2;moderate;https://npmjs.com/advisories/55
+54;gm;<=1.20.0;>=1.21.1;critical;https://npmjs.com/advisories/54
+53;jshamcrest;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/53
+52;jadedown;>=0.0.0;<0.0.0;low;https://npmjs.com/advisories/52
+51;ansi2html;>=0.0.0;<0.0.0;high;https://npmjs.com/advisories/51
+50;secure-compare;<=3.0.0;>3.0.0;high;https://npmjs.com/advisories/50
+49;mapbox.js;<1.6.5 || < 2.1.7 > 2.0.0;>=1.6.5 <2.0.0 || >= 2.1.7;moderate;https://npmjs.com/advisories/49
+48;uglify-js;<2.6.0;>=2.6.0;low;https://npmjs.com/advisories/48
+47;bleach;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/47
+46;ms;<=0.7.0;>0.7.0;moderate;https://npmjs.com/advisories/46
+45;hapi;<11.0.0;>=11.0.0;moderate;https://npmjs.com/advisories/45
+44;yar;<2.2.0;>=2.2.0;high;https://npmjs.com/advisories/44
+43;validator;<2.0.0;>=2.0.0;high;https://npmjs.com/advisories/43
+42;validator;<3.22.1;>=3.22.1;high;https://npmjs.com/advisories/42
+41;validator;<1.1.0;>=1.1.0;critical;https://npmjs.com/advisories/41
+40;ungit;<=0.8.4;>=0.9.0;critical;https://npmjs.com/advisories/40
+39;uglify-js;<= 2.4.23;>= 2.4.24;low;https://npmjs.com/advisories/39
+38;tomato;<= 0.0.5;>= 0.0.6;critical;https://npmjs.com/advisories/38
+37;syntax-error;< 1.1.1;>= 1.1.1;low;https://npmjs.com/advisories/37
+36;st;<0.2.5;>=0.2.5;high;https://npmjs.com/advisories/36
+35;serve-static;<1.6.5 || >=1.7.0 <1.7.2;~1.6.5 || >=1.7.2;low;https://npmjs.com/advisories/35
+34;serve-index;<1.6.3;>=1.6.3;moderate;https://npmjs.com/advisories/34
+33;sequelize;<=2.0.0-rc7;>=2.0.0-rc8;critical;https://npmjs.com/advisories/33
+32;send;< 0.8.4;>= 0.8.4;low;https://npmjs.com/advisories/32
+31;semver;<4.3.2;>=4.3.2;moderate;https://npmjs.com/advisories/31
+30;remarkable;<1.4.1;>=1.4.1;high;https://npmjs.com/advisories/30
+29;qs;<1.0.0;>= 1.x;high;https://npmjs.com/advisories/29
+28;qs;<1.0.0;>= 1.x;high;https://npmjs.com/advisories/28
+27;printer;<= 0.0.1;> 0.0.1;critical;https://npmjs.com/advisories/27
+26;paypal-ipn;<3.0.0;>=3.0.0;critical;https://npmjs.com/advisories/26
+25;nhouston;>=0.0.0;<0.0.0;moderate;https://npmjs.com/advisories/25
+24;marked;<=0.3.2;>=0.3.3;moderate;https://npmjs.com/advisories/24
+23;marked;<=0.3.3;>=0.3.4;high;https://npmjs.com/advisories/23
+22;marked;<=0.3.0;>=0.3.1;moderate;https://npmjs.com/advisories/22
+21;libyaml;<0.2.3;>=0.2.3;critical;https://npmjs.com/advisories/21
+20;libnotify;<= 1.0.3;>= 1.0.4;high;https://npmjs.com/advisories/20
+19;ldapauth;<=2.2.4;<0.0.0;high;https://npmjs.com/advisories/19
+18;ldapauth-fork;< 2.3.3;>= 2.3.3;high;https://npmjs.com/advisories/18
+17;jsonwebtoken;<4.2.2;>=4.2.2;critical;https://npmjs.com/advisories/17
+16;js-yaml;<  2.0.5;>= 2.0.5;critical;https://npmjs.com/advisories/16
+15;jquery-ujs;<= 1.0.3;>= 1.0.4;moderate;https://npmjs.com/advisories/15
+14;inert;<1.1.1;>=1.1.1;moderate;https://npmjs.com/advisories/14
+13;hubot-scripts;<= 2.4.3;> 2.4.3;critical;https://npmjs.com/advisories/13
+12;hapi;< 6.1.0;>= 6.1.0;moderate;https://npmjs.com/advisories/12
+11;hapi;2.0.x || 2.1.x;>= 2.2.x;high;https://npmjs.com/advisories/11
+10;geddy;<13.0.8;>=13.0.8;high;https://npmjs.com/advisories/10
+9;fancy-server;<0.1.4;>=0.1.4;high;https://npmjs.com/advisories/9
+8;express;<3.11 || >= 4 <4.5;>=3.11 <4 || >=4.5;moderate;https://npmjs.com/advisories/8
+7;ep_imageconvert;<=0.0.2;>=0.0.3;critical;https://npmjs.com/advisories/7
+5;datatables;<=1.10.8;>1.10.8;high;https://npmjs.com/advisories/5
+4;crumb;<3.0.0;>=3.0.0;moderate;https://npmjs.com/advisories/4
+3;connect;<=2.8.0;>=2.8.1;low;https://npmjs.com/advisories/3
+2;codem-transcode;<0.5.0;>=0.5.0;critical;https://npmjs.com/advisories/2
+1;bassmaster;<=1.5.1;>=1.5.2;critical;https://npmjs.com/advisories/1

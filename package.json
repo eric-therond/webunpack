@@ -1,0 +1,21 @@
+{
+  "name": "webunpack",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "main": "./lib/index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "acorn": "^7.0.0",
+    "recast": "^0.18.2",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "description": ""
+}

@@ -1,0 +1,5 @@
+clang-extra
+openframe-image
+openframe-glslviewer
+marionette-socket-host
+openframe-ascii-image
