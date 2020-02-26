@@ -1,6 +1,6 @@
 # webunpack
 > A recon tool for security purposes  
-> Find the modules packed (bundles) with webpack.js
+> Find the vulnerable modules inside webpack.js files (bundles)
 
 ---
 ## Installation
@@ -11,7 +11,7 @@ npm install --global webpack-cli
 ```
 
 ## CLI example
-Download the latest [release](https://github.com/eric-therond/webunpack/releases) of webunpack.  
+Download the latest [release](https://github.com/eric-therond/webunpack/releases) of webunpack or git clone this repository.  
 To display the help:
 ```shell
 node webpack.js
