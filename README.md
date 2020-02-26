@@ -3,7 +3,7 @@
 > Find the vulnerable modules inside webpack.js files (bundles)
 
 ---
-## Installation
+## Pre-required
 Install globally [webpack](https://webpack.js.org/) and webpack-cli:
 ```shell
 npm install --global webpack
@@ -12,6 +12,11 @@ npm install --global webpack-cli
 
 ## CLI example
 Download the latest [release](https://github.com/eric-therond/webunpack/releases) of webunpack or git clone this repository.  
+Install dependencies:
+```shell
+npm install
+```
+
 To display the help:
 ```shell
 node webpack.js
@@ -36,7 +41,7 @@ node webunpack.js updatedb vulnerablemodules.txt ./dbs/signaturesdb.json
 To filter signatures/remove duplicate signatures shared between modules:
 ```shell
 cp ./dbs/signaturesdb.json ./dbs/signaturesdbfiltered.json
-node webunpack.js filterdb vulnerablemodules.txt ./dbs/signaturesdbfiltered.json
+node webunpack.js filterdb ./dbs/signaturesdbfiltered.json
 ```
 
 To retrieve vulnerable npm modules from a packed file:
