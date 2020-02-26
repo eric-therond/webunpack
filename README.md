@@ -52,7 +52,7 @@ Update your package.json to use webunpack:
   "version": "0.0.1",
   "license": "MIT",
   "dependencies": {
-    "webunpack.js": "^0.0.1"
+    "webunpack.js": "^0.0.2"
   }
 }
 
