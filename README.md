@@ -1,6 +1,6 @@
 # webunpack
 > A recon tool for security purposes  
-> Find the modules with webpack
+> Find the modules packed (bundles) with webpack.js
 
 ---
 ## Installation

@@ -1,4 +1,5 @@
 node_modules
 tmpwebpack/*
 !tmpwebpack/.gitkeep
+package-lock.json
 
