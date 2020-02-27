@@ -1,6 +1,6 @@
 # webunpack
 > A recon tool for security purposes  
-> Find the vulnerable modules inside webpack.js files (bundles)
+> Find the vulnerable modules inside webpacked files (bundles)
 
 ---
 ## Pre-required
@@ -19,7 +19,7 @@ npm install
 
 To display the help:
 ```shell
-node webpack.js
+node webunpack.js
 ```
 
 To fetch the list of vulnerable npm modules:
