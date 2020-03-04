@@ -3,7 +3,7 @@
 > Find the vulnerable modules inside webpacked files (bundles)
 
 ---
-## Pre-required
+## Prerequisited
 Install globally [webpack](https://webpack.js.org/) and webpack-cli:
 ```shell
 npm install --global webpack
