@@ -1,3 +1,4 @@
+node-red
 clang-extra
 openframe-image
 openframe-glslviewer

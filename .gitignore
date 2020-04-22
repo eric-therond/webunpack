@@ -1,5 +1,8 @@
 node_modules
 tmpwebpack/*
 !tmpwebpack/.gitkeep
+!tmpwebpack/webpack.config.js
+!tmpwebback/dist/
+!tmpwebpack/dist/.gitkeep
 package-lock.json
 

@@ -17,7 +17,7 @@ test('handlebars vuln', () => {
         expect(ret.version).not.toBe(false);
     }
 }); 
-/*
+
 test('validator react largedb', () => {
     var DIR_MODULE = DIR_TMPWEBPACK_TEST+"/testlargedbreactvuln";
     
@@ -89,4 +89,3 @@ test('lodash vuln complete fictif test', () => {
     }
 }); 
 
-*/
