@@ -5,7 +5,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "lodash": "3.3.0",
+    "lodash": "4.17.19",
     "validator": "12.1.0",
     "easy-cookie-manager": "^1.0.2",
     "date.js": "^0.3.3",
